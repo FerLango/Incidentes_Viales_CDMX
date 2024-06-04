@@ -1,0 +1,1617 @@
+dia_semana,hora,tipo_incidente,cantidad,dia_hora
+Viernes,0,Choque con lesionados,513,Viernes 0
+Viernes,0,Choque sin lesionados,1002,Viernes 0
+Viernes,0,Ciclista,15,Viernes 0
+Viernes,0,Motociclista,276,Viernes 0
+Viernes,0,Otros,8,Viernes 0
+Viernes,0,Persona atrapada,5,Viernes 0
+Viernes,0,Persona atropellada,112,Viernes 0
+Viernes,0,Vehículo atrapado,9,Viernes 0
+Viernes,0,Volcadura,42,Viernes 0
+Viernes,1,Choque con lesionados,430,Viernes 1
+Viernes,1,Choque sin lesionados,710,Viernes 1
+Viernes,1,Ciclista,18,Viernes 1
+Viernes,1,Motociclista,154,Viernes 1
+Viernes,1,Otros,10,Viernes 1
+Viernes,1,Persona atrapada,7,Viernes 1
+Viernes,1,Persona atropellada,72,Viernes 1
+Viernes,1,Vehículo atrapado,3,Viernes 1
+Viernes,1,Volcadura,67,Viernes 1
+Viernes,2,Choque con lesionados,318,Viernes 2
+Viernes,2,Choque sin lesionados,418,Viernes 2
+Viernes,2,Ciclista,9,Viernes 2
+Viernes,2,Motociclista,138,Viernes 2
+Viernes,2,Otros,11,Viernes 2
+Viernes,2,Persona atrapada,7,Viernes 2
+Viernes,2,Persona atropellada,21,Viernes 2
+Viernes,2,Vehículo atrapado,5,Viernes 2
+Viernes,2,Volcadura,49,Viernes 2
+Viernes,3,Choque con lesionados,219,Viernes 3
+Viernes,3,Choque sin lesionados,281,Viernes 3
+Viernes,3,Ciclista,4,Viernes 3
+Viernes,3,Motociclista,95,Viernes 3
+Viernes,3,Otros,6,Viernes 3
+Viernes,3,Persona atrapada,7,Viernes 3
+Viernes,3,Persona atropellada,23,Viernes 3
+Viernes,3,Vehículo atrapado,8,Viernes 3
+Viernes,3,Volcadura,45,Viernes 3
+Viernes,4,Choque con lesionados,211,Viernes 4
+Viernes,4,Choque sin lesionados,203,Viernes 4
+Viernes,4,Ciclista,4,Viernes 4
+Viernes,4,Motociclista,86,Viernes 4
+Viernes,4,Otros,4,Viernes 4
+Viernes,4,Persona atrapada,3,Viernes 4
+Viernes,4,Persona atropellada,34,Viernes 4
+Viernes,4,Vehículo atrapado,5,Viernes 4
+Viernes,4,Volcadura,55,Viernes 4
+Viernes,5,Choque con lesionados,316,Viernes 5
+Viernes,5,Choque sin lesionados,262,Viernes 5
+Viernes,5,Ciclista,4,Viernes 5
+Viernes,5,Monopatín,1,Viernes 5
+Viernes,5,Motociclista,115,Viernes 5
+Viernes,5,Otros,7,Viernes 5
+Viernes,5,Persona atrapada,6,Viernes 5
+Viernes,5,Persona atropellada,45,Viernes 5
+Viernes,5,Vehículo atrapado,11,Viernes 5
+Viernes,5,Volcadura,68,Viernes 5
+Viernes,6,Choque con lesionados,472,Viernes 6
+Viernes,6,Choque sin lesionados,514,Viernes 6
+Viernes,6,Ciclista,13,Viernes 6
+Viernes,6,Motociclista,154,Viernes 6
+Viernes,6,Otros,6,Viernes 6
+Viernes,6,Persona atrapada,2,Viernes 6
+Viernes,6,Persona atropellada,141,Viernes 6
+Viernes,6,Vehículo atrapado,18,Viernes 6
+Viernes,6,Volcadura,60,Viernes 6
+Viernes,7,Choque con lesionados,787,Viernes 7
+Viernes,7,Choque sin lesionados,830,Viernes 7
+Viernes,7,Ciclista,38,Viernes 7
+Viernes,7,Motociclista,241,Viernes 7
+Viernes,7,Otros,2,Viernes 7
+Viernes,7,Persona atrapada,8,Viernes 7
+Viernes,7,Persona atropellada,279,Viernes 7
+Viernes,7,Vehículo atrapado,20,Viernes 7
+Viernes,7,Volcadura,46,Viernes 7
+Viernes,8,Choque con lesionados,1074,Viernes 8
+Viernes,8,Choque sin lesionados,1086,Viernes 8
+Viernes,8,Ciclista,45,Viernes 8
+Viernes,8,Ferroviario,1,Viernes 8
+Viernes,8,Motociclista,273,Viernes 8
+Viernes,8,Otros,5,Viernes 8
+Viernes,8,Persona atrapada,10,Viernes 8
+Viernes,8,Persona atropellada,357,Viernes 8
+Viernes,8,Vehículo atrapado,8,Viernes 8
+Viernes,8,Volcadura,45,Viernes 8
+Viernes,9,Choque con lesionados,932,Viernes 9
+Viernes,9,Choque sin lesionados,1316,Viernes 9
+Viernes,9,Ciclista,57,Viernes 9
+Viernes,9,Monopatín,4,Viernes 9
+Viernes,9,Motociclista,246,Viernes 9
+Viernes,9,Otros,3,Viernes 9
+Viernes,9,Persona atrapada,9,Viernes 9
+Viernes,9,Persona atropellada,330,Viernes 9
+Viernes,9,Vehículo atrapado,11,Viernes 9
+Viernes,9,Volcadura,20,Viernes 9
+Viernes,10,Choque con lesionados,808,Viernes 10
+Viernes,10,Choque sin lesionados,1435,Viernes 10
+Viernes,10,Ciclista,51,Viernes 10
+Viernes,10,Ferroviario,1,Viernes 10
+Viernes,10,Monopatín,2,Viernes 10
+Viernes,10,Motociclista,241,Viernes 10
+Viernes,10,Otros,7,Viernes 10
+Viernes,10,Persona atrapada,12,Viernes 10
+Viernes,10,Persona atropellada,365,Viernes 10
+Viernes,10,Vehículo atrapado,10,Viernes 10
+Viernes,10,Volcadura,23,Viernes 10
+Viernes,11,Choque con lesionados,789,Viernes 11
+Viernes,11,Choque sin lesionados,1417,Viernes 11
+Viernes,11,Ciclista,43,Viernes 11
+Viernes,11,Monopatín,1,Viernes 11
+Viernes,11,Motociclista,184,Viernes 11
+Viernes,11,Otros,6,Viernes 11
+Viernes,11,Persona atrapada,19,Viernes 11
+Viernes,11,Persona atropellada,329,Viernes 11
+Viernes,11,Vehículo atrapado,3,Viernes 11
+Viernes,11,Volcadura,13,Viernes 11
+Viernes,12,Choque con lesionados,841,Viernes 12
+Viernes,12,Choque sin lesionados,1521,Viernes 12
+Viernes,12,Ciclista,50,Viernes 12
+Viernes,12,Monopatín,2,Viernes 12
+Viernes,12,Motociclista,239,Viernes 12
+Viernes,12,Otros,6,Viernes 12
+Viernes,12,Persona atrapada,16,Viernes 12
+Viernes,12,Persona atropellada,295,Viernes 12
+Viernes,12,Vehículo atrapado,14,Viernes 12
+Viernes,12,Volcadura,44,Viernes 12
+Viernes,13,Choque con lesionados,958,Viernes 13
+Viernes,13,Choque sin lesionados,1696,Viernes 13
+Viernes,13,Ciclista,42,Viernes 13
+Viernes,13,Monopatín,4,Viernes 13
+Viernes,13,Motociclista,267,Viernes 13
+Viernes,13,Otros,6,Viernes 13
+Viernes,13,Persona atrapada,19,Viernes 13
+Viernes,13,Persona atropellada,500,Viernes 13
+Viernes,13,Vehículo atrapado,9,Viernes 13
+Viernes,13,Volcadura,25,Viernes 13
+Viernes,14,Choque con lesionados,1352,Viernes 14
+Viernes,14,Choque sin lesionados,2074,Viernes 14
+Viernes,14,Ciclista,77,Viernes 14
+Viernes,14,Monopatín,7,Viernes 14
+Viernes,14,Motociclista,293,Viernes 14
+Viernes,14,Otros,16,Viernes 14
+Viernes,14,Persona atrapada,24,Viernes 14
+Viernes,14,Persona atropellada,614,Viernes 14
+Viernes,14,Vehículo atrapado,13,Viernes 14
+Viernes,14,Volcadura,51,Viernes 14
+Viernes,15,Choque con lesionados,1387,Viernes 15
+Viernes,15,Choque sin lesionados,2302,Viernes 15
+Viernes,15,Ciclista,59,Viernes 15
+Viernes,15,Monopatín,6,Viernes 15
+Viernes,15,Motociclista,347,Viernes 15
+Viernes,15,Otros,14,Viernes 15
+Viernes,15,Persona atrapada,21,Viernes 15
+Viernes,15,Persona atropellada,562,Viernes 15
+Viernes,15,Vehículo atrapado,13,Viernes 15
+Viernes,15,Volcadura,65,Viernes 15
+Viernes,16,Choque con lesionados,1265,Viernes 16
+Viernes,16,Choque sin lesionados,2553,Viernes 16
+Viernes,16,Ciclista,59,Viernes 16
+Viernes,16,Monopatín,1,Viernes 16
+Viernes,16,Motociclista,407,Viernes 16
+Viernes,16,Otros,7,Viernes 16
+Viernes,16,Persona atrapada,22,Viernes 16
+Viernes,16,Persona atropellada,570,Viernes 16
+Viernes,16,Vehículo atrapado,15,Viernes 16
+Viernes,16,Volcadura,82,Viernes 16
+Viernes,17,Choque con lesionados,1291,Viernes 17
+Viernes,17,Choque sin lesionados,2584,Viernes 17
+Viernes,17,Ciclista,66,Viernes 17
+Viernes,17,Ferroviario,2,Viernes 17
+Viernes,17,Monopatín,1,Viernes 17
+Viernes,17,Motociclista,425,Viernes 17
+Viernes,17,Otros,25,Viernes 17
+Viernes,17,Persona atrapada,26,Viernes 17
+Viernes,17,Persona atropellada,487,Viernes 17
+Viernes,17,Vehículo atrapado,11,Viernes 17
+Viernes,17,Volcadura,38,Viernes 17
+Viernes,18,Choque con lesionados,1425,Viernes 18
+Viernes,18,Choque sin lesionados,2872,Viernes 18
+Viernes,18,Ciclista,72,Viernes 18
+Viernes,18,Ferroviario,2,Viernes 18
+Viernes,18,Monopatín,5,Viernes 18
+Viernes,18,Motociclista,477,Viernes 18
+Viernes,18,Otros,14,Viernes 18
+Viernes,18,Persona atrapada,24,Viernes 18
+Viernes,18,Persona atropellada,659,Viernes 18
+Viernes,18,Vehículo atrapado,17,Viernes 18
+Viernes,18,Volcadura,67,Viernes 18
+Viernes,19,Choque con lesionados,1516,Viernes 19
+Viernes,19,Choque sin lesionados,2975,Viernes 19
+Viernes,19,Ciclista,80,Viernes 19
+Viernes,19,Ferroviario,2,Viernes 19
+Viernes,19,Monopatín,3,Viernes 19
+Viernes,19,Motociclista,558,Viernes 19
+Viernes,19,Otros,10,Viernes 19
+Viernes,19,Persona atrapada,38,Viernes 19
+Viernes,19,Persona atropellada,632,Viernes 19
+Viernes,19,Vehículo atrapado,28,Viernes 19
+Viernes,19,Volcadura,34,Viernes 19
+Viernes,20,Choque con lesionados,1524,Viernes 20
+Viernes,20,Choque sin lesionados,3015,Viernes 20
+Viernes,20,Ciclista,74,Viernes 20
+Viernes,20,Monopatín,2,Viernes 20
+Viernes,20,Motociclista,507,Viernes 20
+Viernes,20,Otros,11,Viernes 20
+Viernes,20,Persona atrapada,50,Viernes 20
+Viernes,20,Persona atropellada,627,Viernes 20
+Viernes,20,Vehículo atrapado,36,Viernes 20
+Viernes,20,Volcadura,58,Viernes 20
+Viernes,21,Choque con lesionados,1597,Viernes 21
+Viernes,21,Choque sin lesionados,2924,Viernes 21
+Viernes,21,Ciclista,54,Viernes 21
+Viernes,21,Monopatín,2,Viernes 21
+Viernes,21,Motociclista,594,Viernes 21
+Viernes,21,Otros,20,Viernes 21
+Viernes,21,Persona atrapada,26,Viernes 21
+Viernes,21,Persona atropellada,597,Viernes 21
+Viernes,21,Vehículo atrapado,34,Viernes 21
+Viernes,21,Volcadura,92,Viernes 21
+Viernes,22,Choque con lesionados,1499,Viernes 22
+Viernes,22,Choque sin lesionados,2547,Viernes 22
+Viernes,22,Ciclista,40,Viernes 22
+Viernes,22,Motociclista,506,Viernes 22
+Viernes,22,Otros,14,Viernes 22
+Viernes,22,Persona atrapada,22,Viernes 22
+Viernes,22,Persona atropellada,364,Viernes 22
+Viernes,22,Vehículo atrapado,23,Viernes 22
+Viernes,22,Volcadura,70,Viernes 22
+Viernes,23,Choque con lesionados,1315,Viernes 23
+Viernes,23,Choque sin lesionados,2058,Viernes 23
+Viernes,23,Ciclista,43,Viernes 23
+Viernes,23,Motociclista,539,Viernes 23
+Viernes,23,Otros,25,Viernes 23
+Viernes,23,Persona atrapada,22,Viernes 23
+Viernes,23,Persona atropellada,261,Viernes 23
+Viernes,23,Vehículo atrapado,17,Viernes 23
+Viernes,23,Volcadura,103,Viernes 23
+Lunes,0,Choque con lesionados,602,Lunes 0
+Lunes,0,Choque sin lesionados,787,Lunes 0
+Lunes,0,Ciclista,10,Lunes 0
+Lunes,0,Motociclista,342,Lunes 0
+Lunes,0,Otros,60,Lunes 0
+Lunes,0,Persona atrapada,10,Lunes 0
+Lunes,0,Persona atropellada,106,Lunes 0
+Lunes,0,Vehículo atrapado,9,Lunes 0
+Lunes,0,Volcadura,52,Lunes 0
+Lunes,1,Choque con lesionados,393,Lunes 1
+Lunes,1,Choque sin lesionados,524,Lunes 1
+Lunes,1,Ciclista,7,Lunes 1
+Lunes,1,Motociclista,208,Lunes 1
+Lunes,1,Otros,9,Lunes 1
+Lunes,1,Persona atrapada,7,Lunes 1
+Lunes,1,Persona atropellada,60,Lunes 1
+Lunes,1,Vehículo atrapado,7,Lunes 1
+Lunes,1,Volcadura,54,Lunes 1
+Lunes,2,Choque con lesionados,217,Lunes 2
+Lunes,2,Choque sin lesionados,341,Lunes 2
+Lunes,2,Ciclista,4,Lunes 2
+Lunes,2,Motociclista,117,Lunes 2
+Lunes,2,Otros,7,Lunes 2
+Lunes,2,Persona atrapada,3,Lunes 2
+Lunes,2,Persona atropellada,26,Lunes 2
+Lunes,2,Vehículo atrapado,1,Lunes 2
+Lunes,2,Volcadura,22,Lunes 2
+Lunes,3,Choque con lesionados,177,Lunes 3
+Lunes,3,Choque sin lesionados,245,Lunes 3
+Lunes,3,Ciclista,2,Lunes 3
+Lunes,3,Motociclista,97,Lunes 3
+Lunes,3,Otros,6,Lunes 3
+Lunes,3,Persona atrapada,4,Lunes 3
+Lunes,3,Persona atropellada,36,Lunes 3
+Lunes,3,Vehículo atrapado,6,Lunes 3
+Lunes,3,Volcadura,19,Lunes 3
+Lunes,4,Choque con lesionados,145,Lunes 4
+Lunes,4,Choque sin lesionados,171,Lunes 4
+Lunes,4,Ciclista,4,Lunes 4
+Lunes,4,Motociclista,102,Lunes 4
+Lunes,4,Otros,8,Lunes 4
+Lunes,4,Persona atrapada,4,Lunes 4
+Lunes,4,Persona atropellada,13,Lunes 4
+Lunes,4,Vehículo atrapado,3,Lunes 4
+Lunes,4,Volcadura,10,Lunes 4
+Lunes,5,Choque con lesionados,252,Lunes 5
+Lunes,5,Choque sin lesionados,195,Lunes 5
+Lunes,5,Ciclista,6,Lunes 5
+Lunes,5,Motociclista,103,Lunes 5
+Lunes,5,Otros,6,Lunes 5
+Lunes,5,Persona atrapada,1,Lunes 5
+Lunes,5,Persona atropellada,67,Lunes 5
+Lunes,5,Vehículo atrapado,4,Lunes 5
+Lunes,5,Volcadura,34,Lunes 5
+Lunes,6,Choque con lesionados,495,Lunes 6
+Lunes,6,Choque sin lesionados,467,Lunes 6
+Lunes,6,Ciclista,13,Lunes 6
+Lunes,6,Motociclista,222,Lunes 6
+Lunes,6,Otros,3,Lunes 6
+Lunes,6,Persona atrapada,2,Lunes 6
+Lunes,6,Persona atropellada,135,Lunes 6
+Lunes,6,Vehículo atrapado,10,Lunes 6
+Lunes,6,Volcadura,26,Lunes 6
+Lunes,7,Choque con lesionados,814,Lunes 7
+Lunes,7,Choque sin lesionados,926,Lunes 7
+Lunes,7,Ciclista,23,Lunes 7
+Lunes,7,Motociclista,253,Lunes 7
+Lunes,7,Otros,3,Lunes 7
+Lunes,7,Persona atrapada,10,Lunes 7
+Lunes,7,Persona atropellada,359,Lunes 7
+Lunes,7,Vehículo atrapado,17,Lunes 7
+Lunes,7,Volcadura,35,Lunes 7
+Lunes,8,Choque con lesionados,1035,Lunes 8
+Lunes,8,Choque sin lesionados,1215,Lunes 8
+Lunes,8,Ciclista,44,Lunes 8
+Lunes,8,Monopatín,4,Lunes 8
+Lunes,8,Motociclista,334,Lunes 8
+Lunes,8,Otros,11,Lunes 8
+Lunes,8,Persona atrapada,7,Lunes 8
+Lunes,8,Persona atropellada,321,Lunes 8
+Lunes,8,Vehículo atrapado,10,Lunes 8
+Lunes,8,Volcadura,43,Lunes 8
+Lunes,9,Choque con lesionados,960,Lunes 9
+Lunes,9,Choque sin lesionados,1462,Lunes 9
+Lunes,9,Ciclista,32,Lunes 9
+Lunes,9,Monopatín,2,Lunes 9
+Lunes,9,Motociclista,251,Lunes 9
+Lunes,9,Otros,4,Lunes 9
+Lunes,9,Persona atrapada,12,Lunes 9
+Lunes,9,Persona atropellada,363,Lunes 9
+Lunes,9,Vehículo atrapado,5,Lunes 9
+Lunes,9,Volcadura,35,Lunes 9
+Lunes,10,Choque con lesionados,768,Lunes 10
+Lunes,10,Choque sin lesionados,1378,Lunes 10
+Lunes,10,Ciclista,34,Lunes 10
+Lunes,10,Monopatín,1,Lunes 10
+Lunes,10,Motociclista,197,Lunes 10
+Lunes,10,Otros,6,Lunes 10
+Lunes,10,Persona atrapada,8,Lunes 10
+Lunes,10,Persona atropellada,262,Lunes 10
+Lunes,10,Vehículo atrapado,4,Lunes 10
+Lunes,10,Volcadura,35,Lunes 10
+Lunes,11,Choque con lesionados,659,Lunes 11
+Lunes,11,Choque sin lesionados,1413,Lunes 11
+Lunes,11,Ciclista,30,Lunes 11
+Lunes,11,Monopatín,1,Lunes 11
+Lunes,11,Motociclista,177,Lunes 11
+Lunes,11,Otros,7,Lunes 11
+Lunes,11,Persona atrapada,18,Lunes 11
+Lunes,11,Persona atropellada,288,Lunes 11
+Lunes,11,Vehículo atrapado,14,Lunes 11
+Lunes,11,Volcadura,25,Lunes 11
+Lunes,12,Choque con lesionados,827,Lunes 12
+Lunes,12,Choque sin lesionados,1312,Lunes 12
+Lunes,12,Ciclista,49,Lunes 12
+Lunes,12,Monopatín,1,Lunes 12
+Lunes,12,Motociclista,245,Lunes 12
+Lunes,12,Otros,8,Lunes 12
+Lunes,12,Persona atrapada,14,Lunes 12
+Lunes,12,Persona atropellada,397,Lunes 12
+Lunes,12,Vehículo atrapado,13,Lunes 12
+Lunes,12,Volcadura,24,Lunes 12
+Lunes,13,Choque con lesionados,942,Lunes 13
+Lunes,13,Choque sin lesionados,1424,Lunes 13
+Lunes,13,Ciclista,46,Lunes 13
+Lunes,13,Monopatín,11,Lunes 13
+Lunes,13,Motociclista,255,Lunes 13
+Lunes,13,Otros,5,Lunes 13
+Lunes,13,Persona atrapada,17,Lunes 13
+Lunes,13,Persona atropellada,466,Lunes 13
+Lunes,13,Vehículo atrapado,18,Lunes 13
+Lunes,13,Volcadura,43,Lunes 13
+Lunes,14,Choque con lesionados,1224,Lunes 14
+Lunes,14,Choque sin lesionados,1792,Lunes 14
+Lunes,14,Ciclista,59,Lunes 14
+Lunes,14,Monopatín,7,Lunes 14
+Lunes,14,Motociclista,308,Lunes 14
+Lunes,14,Otros,8,Lunes 14
+Lunes,14,Persona atrapada,20,Lunes 14
+Lunes,14,Persona atropellada,645,Lunes 14
+Lunes,14,Vehículo atrapado,16,Lunes 14
+Lunes,14,Volcadura,35,Lunes 14
+Lunes,15,Choque con lesionados,1164,Lunes 15
+Lunes,15,Choque sin lesionados,1967,Lunes 15
+Lunes,15,Ciclista,66,Lunes 15
+Lunes,15,Monopatín,2,Lunes 15
+Lunes,15,Motociclista,358,Lunes 15
+Lunes,15,Otros,11,Lunes 15
+Lunes,15,Persona atrapada,28,Lunes 15
+Lunes,15,Persona atropellada,548,Lunes 15
+Lunes,15,Vehículo atrapado,6,Lunes 15
+Lunes,15,Volcadura,48,Lunes 15
+Lunes,16,Choque con lesionados,1088,Lunes 16
+Lunes,16,Choque sin lesionados,1987,Lunes 16
+Lunes,16,Ciclista,54,Lunes 16
+Lunes,16,Monopatín,1,Lunes 16
+Lunes,16,Motociclista,346,Lunes 16
+Lunes,16,Otros,9,Lunes 16
+Lunes,16,Persona atrapada,25,Lunes 16
+Lunes,16,Persona atropellada,497,Lunes 16
+Lunes,16,Vehículo atrapado,21,Lunes 16
+Lunes,16,Volcadura,35,Lunes 16
+Lunes,17,Choque con lesionados,1085,Lunes 17
+Lunes,17,Choque sin lesionados,1909,Lunes 17
+Lunes,17,Ciclista,65,Lunes 17
+Lunes,17,Monopatín,1,Lunes 17
+Lunes,17,Motociclista,347,Lunes 17
+Lunes,17,Otros,12,Lunes 17
+Lunes,17,Persona atrapada,24,Lunes 17
+Lunes,17,Persona atropellada,417,Lunes 17
+Lunes,17,Vehículo atrapado,32,Lunes 17
+Lunes,17,Volcadura,69,Lunes 17
+Lunes,18,Choque con lesionados,1163,Lunes 18
+Lunes,18,Choque sin lesionados,2042,Lunes 18
+Lunes,18,Ciclista,59,Lunes 18
+Lunes,18,Monopatín,7,Lunes 18
+Lunes,18,Motociclista,415,Lunes 18
+Lunes,18,Otros,8,Lunes 18
+Lunes,18,Persona atrapada,24,Lunes 18
+Lunes,18,Persona atropellada,505,Lunes 18
+Lunes,18,Vehículo atrapado,28,Lunes 18
+Lunes,18,Volcadura,41,Lunes 18
+Lunes,19,Choque con lesionados,1074,Lunes 19
+Lunes,19,Choque sin lesionados,2165,Lunes 19
+Lunes,19,Ciclista,75,Lunes 19
+Lunes,19,Motociclista,409,Lunes 19
+Lunes,19,Otros,8,Lunes 19
+Lunes,19,Persona atrapada,29,Lunes 19
+Lunes,19,Persona atropellada,441,Lunes 19
+Lunes,19,Vehículo atrapado,23,Lunes 19
+Lunes,19,Volcadura,52,Lunes 19
+Lunes,20,Choque con lesionados,1086,Lunes 20
+Lunes,20,Choque sin lesionados,1882,Lunes 20
+Lunes,20,Ciclista,44,Lunes 20
+Lunes,20,Monopatín,1,Lunes 20
+Lunes,20,Motociclista,383,Lunes 20
+Lunes,20,Otros,5,Lunes 20
+Lunes,20,Persona atrapada,21,Lunes 20
+Lunes,20,Persona atropellada,445,Lunes 20
+Lunes,20,Vehículo atrapado,20,Lunes 20
+Lunes,20,Volcadura,50,Lunes 20
+Lunes,21,Choque con lesionados,1016,Lunes 21
+Lunes,21,Choque sin lesionados,1825,Lunes 21
+Lunes,21,Ciclista,33,Lunes 21
+Lunes,21,Monopatín,1,Lunes 21
+Lunes,21,Motociclista,412,Lunes 21
+Lunes,21,Otros,7,Lunes 21
+Lunes,21,Persona atrapada,16,Lunes 21
+Lunes,21,Persona atropellada,408,Lunes 21
+Lunes,21,Vehículo atrapado,32,Lunes 21
+Lunes,21,Volcadura,55,Lunes 21
+Lunes,22,Choque con lesionados,923,Lunes 22
+Lunes,22,Choque sin lesionados,1428,Lunes 22
+Lunes,22,Ciclista,35,Lunes 22
+Lunes,22,Monopatín,2,Lunes 22
+Lunes,22,Motociclista,347,Lunes 22
+Lunes,22,Otros,9,Lunes 22
+Lunes,22,Persona atrapada,19,Lunes 22
+Lunes,22,Persona atropellada,194,Lunes 22
+Lunes,22,Vehículo atrapado,34,Lunes 22
+Lunes,22,Volcadura,82,Lunes 22
+Lunes,23,Choque con lesionados,569,Lunes 23
+Lunes,23,Choque sin lesionados,956,Lunes 23
+Lunes,23,Ciclista,31,Lunes 23
+Lunes,23,Motociclista,211,Lunes 23
+Lunes,23,Otros,9,Lunes 23
+Lunes,23,Persona atrapada,14,Lunes 23
+Lunes,23,Persona atropellada,149,Lunes 23
+Lunes,23,Vehículo atrapado,14,Lunes 23
+Lunes,23,Volcadura,43,Lunes 23
+Sabado,0,Choque con lesionados,1095,Sabado 0
+Sabado,0,Choque sin lesionados,1715,Sabado 0
+Sabado,0,Ciclista,24,Sabado 0
+Sabado,0,Motociclista,449,Sabado 0
+Sabado,0,Otros,24,Sabado 0
+Sabado,0,Persona atrapada,20,Sabado 0
+Sabado,0,Persona atropellada,197,Sabado 0
+Sabado,0,Vehículo atrapado,16,Sabado 0
+Sabado,0,Volcadura,139,Sabado 0
+Sabado,1,Choque con lesionados,946,Sabado 1
+Sabado,1,Choque sin lesionados,1248,Sabado 1
+Sabado,1,Ciclista,14,Sabado 1
+Sabado,1,Ferroviario,1,Sabado 1
+Sabado,1,Motociclista,424,Sabado 1
+Sabado,1,Otros,13,Sabado 1
+Sabado,1,Persona atrapada,7,Sabado 1
+Sabado,1,Persona atropellada,156,Sabado 1
+Sabado,1,Vehículo atrapado,16,Sabado 1
+Sabado,1,Volcadura,118,Sabado 1
+Sabado,2,Choque con lesionados,869,Sabado 2
+Sabado,2,Choque sin lesionados,965,Sabado 2
+Sabado,2,Ciclista,13,Sabado 2
+Sabado,2,Motociclista,354,Sabado 2
+Sabado,2,Otros,26,Sabado 2
+Sabado,2,Persona atrapada,7,Sabado 2
+Sabado,2,Persona atropellada,120,Sabado 2
+Sabado,2,Vehículo atrapado,13,Sabado 2
+Sabado,2,Volcadura,82,Sabado 2
+Sabado,3,Choque con lesionados,786,Sabado 3
+Sabado,3,Choque sin lesionados,857,Sabado 3
+Sabado,3,Ciclista,6,Sabado 3
+Sabado,3,Motociclista,322,Sabado 3
+Sabado,3,Otros,16,Sabado 3
+Sabado,3,Persona atrapada,11,Sabado 3
+Sabado,3,Persona atropellada,70,Sabado 3
+Sabado,3,Vehículo atrapado,11,Sabado 3
+Sabado,3,Volcadura,111,Sabado 3
+Sabado,4,Choque con lesionados,611,Sabado 4
+Sabado,4,Choque sin lesionados,682,Sabado 4
+Sabado,4,Ciclista,3,Sabado 4
+Sabado,4,Motociclista,256,Sabado 4
+Sabado,4,Otros,15,Sabado 4
+Sabado,4,Persona atrapada,15,Sabado 4
+Sabado,4,Persona atropellada,84,Sabado 4
+Sabado,4,Vehículo atrapado,8,Sabado 4
+Sabado,4,Volcadura,97,Sabado 4
+Sabado,5,Choque con lesionados,609,Sabado 5
+Sabado,5,Choque sin lesionados,626,Sabado 5
+Sabado,5,Ciclista,2,Sabado 5
+Sabado,5,Motociclista,232,Sabado 5
+Sabado,5,Otros,20,Sabado 5
+Sabado,5,Persona atrapada,6,Sabado 5
+Sabado,5,Persona atropellada,102,Sabado 5
+Sabado,5,Vehículo atrapado,18,Sabado 5
+Sabado,5,Volcadura,133,Sabado 5
+Sabado,6,Choque con lesionados,703,Sabado 6
+Sabado,6,Choque sin lesionados,658,Sabado 6
+Sabado,6,Ciclista,13,Sabado 6
+Sabado,6,Monopatín,1,Sabado 6
+Sabado,6,Motociclista,225,Sabado 6
+Sabado,6,Otros,7,Sabado 6
+Sabado,6,Persona atrapada,8,Sabado 6
+Sabado,6,Persona atropellada,159,Sabado 6
+Sabado,6,Vehículo atrapado,7,Sabado 6
+Sabado,6,Volcadura,66,Sabado 6
+Sabado,7,Choque con lesionados,638,Sabado 7
+Sabado,7,Choque sin lesionados,651,Sabado 7
+Sabado,7,Ciclista,27,Sabado 7
+Sabado,7,Motociclista,195,Sabado 7
+Sabado,7,Otros,7,Sabado 7
+Sabado,7,Persona atrapada,7,Sabado 7
+Sabado,7,Persona atropellada,171,Sabado 7
+Sabado,7,Vehículo atrapado,10,Sabado 7
+Sabado,7,Volcadura,91,Sabado 7
+Sabado,8,Choque con lesionados,820,Sabado 8
+Sabado,8,Choque sin lesionados,708,Sabado 8
+Sabado,8,Ciclista,23,Sabado 8
+Sabado,8,Motociclista,307,Sabado 8
+Sabado,8,Otros,8,Sabado 8
+Sabado,8,Persona atrapada,9,Sabado 8
+Sabado,8,Persona atropellada,209,Sabado 8
+Sabado,8,Vehículo atrapado,13,Sabado 8
+Sabado,8,Volcadura,61,Sabado 8
+Sabado,9,Choque con lesionados,784,Sabado 9
+Sabado,9,Choque sin lesionados,924,Sabado 9
+Sabado,9,Ciclista,53,Sabado 9
+Sabado,9,Ferroviario,41,Sabado 9
+Sabado,9,Motociclista,269,Sabado 9
+Sabado,9,Otros,10,Sabado 9
+Sabado,9,Persona atrapada,12,Sabado 9
+Sabado,9,Persona atropellada,262,Sabado 9
+Sabado,9,Vehículo atrapado,5,Sabado 9
+Sabado,9,Volcadura,47,Sabado 9
+Sabado,10,Choque con lesionados,845,Sabado 10
+Sabado,10,Choque sin lesionados,1083,Sabado 10
+Sabado,10,Ciclista,61,Sabado 10
+Sabado,10,Ferroviario,2,Sabado 10
+Sabado,10,Monopatín,3,Sabado 10
+Sabado,10,Motociclista,245,Sabado 10
+Sabado,10,Otros,6,Sabado 10
+Sabado,10,Persona atrapada,21,Sabado 10
+Sabado,10,Persona atropellada,317,Sabado 10
+Sabado,10,Vehículo atrapado,5,Sabado 10
+Sabado,10,Volcadura,29,Sabado 10
+Sabado,11,Choque con lesionados,891,Sabado 11
+Sabado,11,Choque sin lesionados,1248,Sabado 11
+Sabado,11,Ciclista,57,Sabado 11
+Sabado,11,Monopatín,1,Sabado 11
+Sabado,11,Motociclista,274,Sabado 11
+Sabado,11,Otros,6,Sabado 11
+Sabado,11,Persona atrapada,23,Sabado 11
+Sabado,11,Persona atropellada,431,Sabado 11
+Sabado,11,Vehículo atrapado,12,Sabado 11
+Sabado,11,Volcadura,64,Sabado 11
+Sabado,12,Choque con lesionados,960,Sabado 12
+Sabado,12,Choque sin lesionados,1552,Sabado 12
+Sabado,12,Ciclista,59,Sabado 12
+Sabado,12,Monopatín,3,Sabado 12
+Sabado,12,Motociclista,240,Sabado 12
+Sabado,12,Otros,5,Sabado 12
+Sabado,12,Persona atrapada,21,Sabado 12
+Sabado,12,Persona atropellada,420,Sabado 12
+Sabado,12,Vehículo atrapado,5,Sabado 12
+Sabado,12,Volcadura,42,Sabado 12
+Sabado,13,Choque con lesionados,1126,Sabado 13
+Sabado,13,Choque sin lesionados,1757,Sabado 13
+Sabado,13,Ciclista,61,Sabado 13
+Sabado,13,Ferroviario,1,Sabado 13
+Sabado,13,Monopatín,1,Sabado 13
+Sabado,13,Motociclista,320,Sabado 13
+Sabado,13,Otros,9,Sabado 13
+Sabado,13,Persona atrapada,26,Sabado 13
+Sabado,13,Persona atropellada,505,Sabado 13
+Sabado,13,Vehículo atrapado,16,Sabado 13
+Sabado,13,Volcadura,28,Sabado 13
+Sabado,14,Choque con lesionados,1371,Sabado 14
+Sabado,14,Choque sin lesionados,2048,Sabado 14
+Sabado,14,Ciclista,80,Sabado 14
+Sabado,14,Monopatín,1,Sabado 14
+Sabado,14,Motociclista,306,Sabado 14
+Sabado,14,Otros,9,Sabado 14
+Sabado,14,Persona atrapada,23,Sabado 14
+Sabado,14,Persona atropellada,556,Sabado 14
+Sabado,14,Vehículo atrapado,11,Sabado 14
+Sabado,14,Volcadura,73,Sabado 14
+Sabado,15,Choque con lesionados,1396,Sabado 15
+Sabado,15,Choque sin lesionados,2164,Sabado 15
+Sabado,15,Ciclista,59,Sabado 15
+Sabado,15,Monopatín,1,Sabado 15
+Sabado,15,Motociclista,368,Sabado 15
+Sabado,15,Otros,8,Sabado 15
+Sabado,15,Persona atrapada,30,Sabado 15
+Sabado,15,Persona atropellada,634,Sabado 15
+Sabado,15,Vehículo atrapado,13,Sabado 15
+Sabado,15,Volcadura,61,Sabado 15
+Sabado,16,Choque con lesionados,1380,Sabado 16
+Sabado,16,Choque sin lesionados,2360,Sabado 16
+Sabado,16,Ciclista,64,Sabado 16
+Sabado,16,Monopatín,1,Sabado 16
+Sabado,16,Motociclista,366,Sabado 16
+Sabado,16,Otros,11,Sabado 16
+Sabado,16,Persona atrapada,28,Sabado 16
+Sabado,16,Persona atropellada,610,Sabado 16
+Sabado,16,Vehículo atrapado,9,Sabado 16
+Sabado,16,Volcadura,88,Sabado 16
+Sabado,17,Choque con lesionados,1261,Sabado 17
+Sabado,17,Choque sin lesionados,2249,Sabado 17
+Sabado,17,Ciclista,61,Sabado 17
+Sabado,17,Monopatín,4,Sabado 17
+Sabado,17,Motociclista,441,Sabado 17
+Sabado,17,Otros,11,Sabado 17
+Sabado,17,Persona atrapada,28,Sabado 17
+Sabado,17,Persona atropellada,490,Sabado 17
+Sabado,17,Vehículo atrapado,13,Sabado 17
+Sabado,17,Volcadura,71,Sabado 17
+Sabado,18,Choque con lesionados,1518,Sabado 18
+Sabado,18,Choque sin lesionados,2143,Sabado 18
+Sabado,18,Ciclista,77,Sabado 18
+Sabado,18,Monopatín,4,Sabado 18
+Sabado,18,Motociclista,548,Sabado 18
+Sabado,18,Otros,8,Sabado 18
+Sabado,18,Persona atrapada,36,Sabado 18
+Sabado,18,Persona atropellada,514,Sabado 18
+Sabado,18,Vehículo atrapado,30,Sabado 18
+Sabado,18,Volcadura,75,Sabado 18
+Sabado,19,Choque con lesionados,1379,Sabado 19
+Sabado,19,Choque sin lesionados,2199,Sabado 19
+Sabado,19,Ciclista,61,Sabado 19
+Sabado,19,Monopatín,3,Sabado 19
+Sabado,19,Motociclista,612,Sabado 19
+Sabado,19,Otros,10,Sabado 19
+Sabado,19,Persona atrapada,36,Sabado 19
+Sabado,19,Persona atropellada,596,Sabado 19
+Sabado,19,Vehículo atrapado,36,Sabado 19
+Sabado,19,Volcadura,56,Sabado 19
+Sabado,20,Choque con lesionados,1483,Sabado 20
+Sabado,20,Choque sin lesionados,2265,Sabado 20
+Sabado,20,Ciclista,53,Sabado 20
+Sabado,20,Monopatín,1,Sabado 20
+Sabado,20,Motociclista,651,Sabado 20
+Sabado,20,Otros,18,Sabado 20
+Sabado,20,Persona atrapada,37,Sabado 20
+Sabado,20,Persona atropellada,621,Sabado 20
+Sabado,20,Vehículo atrapado,37,Sabado 20
+Sabado,20,Volcadura,89,Sabado 20
+Sabado,21,Choque con lesionados,1388,Sabado 21
+Sabado,21,Choque sin lesionados,2107,Sabado 21
+Sabado,21,Ciclista,59,Sabado 21
+Sabado,21,Monopatín,2,Sabado 21
+Sabado,21,Motociclista,640,Sabado 21
+Sabado,21,Otros,12,Sabado 21
+Sabado,21,Persona atrapada,37,Sabado 21
+Sabado,21,Persona atropellada,424,Sabado 21
+Sabado,21,Vehículo atrapado,30,Sabado 21
+Sabado,21,Volcadura,107,Sabado 21
+Sabado,22,Choque con lesionados,1528,Sabado 22
+Sabado,22,Choque sin lesionados,1895,Sabado 22
+Sabado,22,Ciclista,34,Sabado 22
+Sabado,22,Motociclista,600,Sabado 22
+Sabado,22,Otros,20,Sabado 22
+Sabado,22,Persona atrapada,26,Sabado 22
+Sabado,22,Persona atropellada,485,Sabado 22
+Sabado,22,Vehículo atrapado,24,Sabado 22
+Sabado,22,Volcadura,73,Sabado 22
+Sabado,23,Choque con lesionados,1264,Sabado 23
+Sabado,23,Choque sin lesionados,1712,Sabado 23
+Sabado,23,Ciclista,28,Sabado 23
+Sabado,23,Monopatín,2,Sabado 23
+Sabado,23,Motociclista,600,Sabado 23
+Sabado,23,Otros,20,Sabado 23
+Sabado,23,Persona atrapada,21,Sabado 23
+Sabado,23,Persona atropellada,332,Sabado 23
+Sabado,23,Vehículo atrapado,25,Sabado 23
+Sabado,23,Volcadura,84,Sabado 23
+Domingo,0,Choque con lesionados,1138,Domingo 0
+Domingo,0,Choque sin lesionados,1468,Domingo 0
+Domingo,0,Ciclista,15,Domingo 0
+Domingo,0,Motociclista,568,Domingo 0
+Domingo,0,Otros,21,Domingo 0
+Domingo,0,Persona atrapada,30,Domingo 0
+Domingo,0,Persona atropellada,255,Domingo 0
+Domingo,0,Vehículo atrapado,19,Domingo 0
+Domingo,0,Volcadura,103,Domingo 0
+Domingo,1,Choque con lesionados,1084,Domingo 1
+Domingo,1,Choque sin lesionados,1279,Domingo 1
+Domingo,1,Ciclista,15,Domingo 1
+Domingo,1,Motociclista,512,Domingo 1
+Domingo,1,Otros,23,Domingo 1
+Domingo,1,Persona atrapada,19,Domingo 1
+Domingo,1,Persona atropellada,185,Domingo 1
+Domingo,1,Vehículo atrapado,13,Domingo 1
+Domingo,1,Volcadura,171,Domingo 1
+Domingo,2,Choque con lesionados,957,Domingo 2
+Domingo,2,Choque sin lesionados,982,Domingo 2
+Domingo,2,Ciclista,10,Domingo 2
+Domingo,2,Monopatín,1,Domingo 2
+Domingo,2,Motociclista,439,Domingo 2
+Domingo,2,Otros,21,Domingo 2
+Domingo,2,Persona atrapada,13,Domingo 2
+Domingo,2,Persona atropellada,157,Domingo 2
+Domingo,2,Vehículo atrapado,12,Domingo 2
+Domingo,2,Volcadura,115,Domingo 2
+Domingo,3,Choque con lesionados,888,Domingo 3
+Domingo,3,Choque sin lesionados,878,Domingo 3
+Domingo,3,Ciclista,8,Domingo 3
+Domingo,3,Motociclista,456,Domingo 3
+Domingo,3,Otros,15,Domingo 3
+Domingo,3,Persona atrapada,9,Domingo 3
+Domingo,3,Persona atropellada,162,Domingo 3
+Domingo,3,Vehículo atrapado,11,Domingo 3
+Domingo,3,Volcadura,115,Domingo 3
+Domingo,4,Choque con lesionados,792,Domingo 4
+Domingo,4,Choque sin lesionados,794,Domingo 4
+Domingo,4,Ciclista,5,Domingo 4
+Domingo,4,Motociclista,377,Domingo 4
+Domingo,4,Otros,20,Domingo 4
+Domingo,4,Persona atrapada,11,Domingo 4
+Domingo,4,Persona atropellada,128,Domingo 4
+Domingo,4,Vehículo atrapado,9,Domingo 4
+Domingo,4,Volcadura,142,Domingo 4
+Domingo,5,Choque con lesionados,699,Domingo 5
+Domingo,5,Choque sin lesionados,654,Domingo 5
+Domingo,5,Ciclista,4,Domingo 5
+Domingo,5,Motociclista,300,Domingo 5
+Domingo,5,Otros,15,Domingo 5
+Domingo,5,Persona atrapada,7,Domingo 5
+Domingo,5,Persona atropellada,70,Domingo 5
+Domingo,5,Vehículo atrapado,15,Domingo 5
+Domingo,5,Volcadura,112,Domingo 5
+Domingo,6,Choque con lesionados,566,Domingo 6
+Domingo,6,Choque sin lesionados,674,Domingo 6
+Domingo,6,Ciclista,10,Domingo 6
+Domingo,6,Monopatín,1,Domingo 6
+Domingo,6,Motociclista,266,Domingo 6
+Domingo,6,Otros,8,Domingo 6
+Domingo,6,Persona atrapada,4,Domingo 6
+Domingo,6,Persona atropellada,96,Domingo 6
+Domingo,6,Vehículo atrapado,18,Domingo 6
+Domingo,6,Volcadura,87,Domingo 6
+Domingo,7,Choque con lesionados,786,Domingo 7
+Domingo,7,Choque sin lesionados,658,Domingo 7
+Domingo,7,Ciclista,17,Domingo 7
+Domingo,7,Motociclista,280,Domingo 7
+Domingo,7,Otros,19,Domingo 7
+Domingo,7,Persona atrapada,7,Domingo 7
+Domingo,7,Persona atropellada,107,Domingo 7
+Domingo,7,Vehículo atrapado,15,Domingo 7
+Domingo,7,Volcadura,87,Domingo 7
+Domingo,8,Choque con lesionados,605,Domingo 8
+Domingo,8,Choque sin lesionados,606,Domingo 8
+Domingo,8,Ciclista,46,Domingo 8
+Domingo,8,Motociclista,203,Domingo 8
+Domingo,8,Otros,5,Domingo 8
+Domingo,8,Persona atrapada,20,Domingo 8
+Domingo,8,Persona atropellada,131,Domingo 8
+Domingo,8,Vehículo atrapado,17,Domingo 8
+Domingo,8,Volcadura,77,Domingo 8
+Domingo,9,Choque con lesionados,650,Domingo 9
+Domingo,9,Choque sin lesionados,613,Domingo 9
+Domingo,9,Ciclista,59,Domingo 9
+Domingo,9,Motociclista,240,Domingo 9
+Domingo,9,Otros,2,Domingo 9
+Domingo,9,Persona atrapada,17,Domingo 9
+Domingo,9,Persona atropellada,193,Domingo 9
+Domingo,9,Vehículo atrapado,12,Domingo 9
+Domingo,9,Volcadura,31,Domingo 9
+Domingo,10,Choque con lesionados,731,Domingo 10
+Domingo,10,Choque sin lesionados,665,Domingo 10
+Domingo,10,Ciclista,101,Domingo 10
+Domingo,10,Monopatín,1,Domingo 10
+Domingo,10,Motociclista,226,Domingo 10
+Domingo,10,Otros,5,Domingo 10
+Domingo,10,Persona atrapada,19,Domingo 10
+Domingo,10,Persona atropellada,284,Domingo 10
+Domingo,10,Vehículo atrapado,12,Domingo 10
+Domingo,10,Volcadura,44,Domingo 10
+Domingo,11,Choque con lesionados,699,Domingo 11
+Domingo,11,Choque sin lesionados,783,Domingo 11
+Domingo,11,Ciclista,103,Domingo 11
+Domingo,11,Motociclista,279,Domingo 11
+Domingo,11,Otros,6,Domingo 11
+Domingo,11,Persona atrapada,23,Domingo 11
+Domingo,11,Persona atropellada,244,Domingo 11
+Domingo,11,Vehículo atrapado,10,Domingo 11
+Domingo,11,Volcadura,47,Domingo 11
+Domingo,12,Choque con lesionados,785,Domingo 12
+Domingo,12,Choque sin lesionados,966,Domingo 12
+Domingo,12,Ciclista,79,Domingo 12
+Domingo,12,Motociclista,337,Domingo 12
+Domingo,12,Otros,4,Domingo 12
+Domingo,12,Persona atrapada,23,Domingo 12
+Domingo,12,Persona atropellada,328,Domingo 12
+Domingo,12,Vehículo atrapado,13,Domingo 12
+Domingo,12,Volcadura,50,Domingo 12
+Domingo,13,Choque con lesionados,931,Domingo 13
+Domingo,13,Choque sin lesionados,1169,Domingo 13
+Domingo,13,Ciclista,83,Domingo 13
+Domingo,13,Monopatín,1,Domingo 13
+Domingo,13,Motociclista,348,Domingo 13
+Domingo,13,Otros,11,Domingo 13
+Domingo,13,Persona atrapada,23,Domingo 13
+Domingo,13,Persona atropellada,389,Domingo 13
+Domingo,13,Vehículo atrapado,12,Domingo 13
+Domingo,13,Volcadura,71,Domingo 13
+Domingo,14,Choque con lesionados,1063,Domingo 14
+Domingo,14,Choque sin lesionados,1348,Domingo 14
+Domingo,14,Ciclista,98,Domingo 14
+Domingo,14,Monopatín,3,Domingo 14
+Domingo,14,Motociclista,390,Domingo 14
+Domingo,14,Otros,3,Domingo 14
+Domingo,14,Persona atrapada,26,Domingo 14
+Domingo,14,Persona atropellada,410,Domingo 14
+Domingo,14,Vehículo atrapado,12,Domingo 14
+Domingo,14,Volcadura,38,Domingo 14
+Domingo,15,Choque con lesionados,1098,Domingo 15
+Domingo,15,Choque sin lesionados,1547,Domingo 15
+Domingo,15,Ciclista,69,Domingo 15
+Domingo,15,Motociclista,361,Domingo 15
+Domingo,15,Otros,4,Domingo 15
+Domingo,15,Persona atrapada,30,Domingo 15
+Domingo,15,Persona atropellada,402,Domingo 15
+Domingo,15,Vehículo atrapado,14,Domingo 15
+Domingo,15,Volcadura,54,Domingo 15
+Domingo,16,Choque con lesionados,1157,Domingo 16
+Domingo,16,Choque sin lesionados,1517,Domingo 16
+Domingo,16,Ciclista,68,Domingo 16
+Domingo,16,Monopatín,2,Domingo 16
+Domingo,16,Motociclista,511,Domingo 16
+Domingo,16,Otros,9,Domingo 16
+Domingo,16,Persona atrapada,24,Domingo 16
+Domingo,16,Persona atropellada,329,Domingo 16
+Domingo,16,Vehículo atrapado,16,Domingo 16
+Domingo,16,Volcadura,35,Domingo 16
+Domingo,17,Choque con lesionados,1236,Domingo 17
+Domingo,17,Choque sin lesionados,1591,Domingo 17
+Domingo,17,Ciclista,54,Domingo 17
+Domingo,17,Monopatín,2,Domingo 17
+Domingo,17,Motociclista,502,Domingo 17
+Domingo,17,Otros,19,Domingo 17
+Domingo,17,Persona atrapada,23,Domingo 17
+Domingo,17,Persona atropellada,354,Domingo 17
+Domingo,17,Vehículo atrapado,13,Domingo 17
+Domingo,17,Volcadura,64,Domingo 17
+Domingo,18,Choque con lesionados,1268,Domingo 18
+Domingo,18,Choque sin lesionados,1704,Domingo 18
+Domingo,18,Ciclista,47,Domingo 18
+Domingo,18,Motociclista,598,Domingo 18
+Domingo,18,Otros,16,Domingo 18
+Domingo,18,Persona atrapada,30,Domingo 18
+Domingo,18,Persona atropellada,379,Domingo 18
+Domingo,18,Vehículo atrapado,15,Domingo 18
+Domingo,18,Volcadura,72,Domingo 18
+Domingo,19,Choque con lesionados,1395,Domingo 19
+Domingo,19,Choque sin lesionados,1792,Domingo 19
+Domingo,19,Ciclista,62,Domingo 19
+Domingo,19,Monopatín,2,Domingo 19
+Domingo,19,Motociclista,569,Domingo 19
+Domingo,19,Otros,12,Domingo 19
+Domingo,19,Persona atrapada,22,Domingo 19
+Domingo,19,Persona atropellada,498,Domingo 19
+Domingo,19,Vehículo atrapado,23,Domingo 19
+Domingo,19,Volcadura,75,Domingo 19
+Domingo,20,Choque con lesionados,1409,Domingo 20
+Domingo,20,Choque sin lesionados,1857,Domingo 20
+Domingo,20,Ciclista,37,Domingo 20
+Domingo,20,Monopatín,2,Domingo 20
+Domingo,20,Motociclista,578,Domingo 20
+Domingo,20,Otros,15,Domingo 20
+Domingo,20,Persona atrapada,23,Domingo 20
+Domingo,20,Persona atropellada,482,Domingo 20
+Domingo,20,Vehículo atrapado,27,Domingo 20
+Domingo,20,Volcadura,94,Domingo 20
+Domingo,21,Choque con lesionados,1436,Domingo 21
+Domingo,21,Choque sin lesionados,1683,Domingo 21
+Domingo,21,Ciclista,47,Domingo 21
+Domingo,21,Motociclista,674,Domingo 21
+Domingo,21,Otros,17,Domingo 21
+Domingo,21,Persona atrapada,26,Domingo 21
+Domingo,21,Persona atropellada,433,Domingo 21
+Domingo,21,Vehículo atrapado,29,Domingo 21
+Domingo,21,Volcadura,90,Domingo 21
+Domingo,22,Choque con lesionados,1220,Domingo 22
+Domingo,22,Choque sin lesionados,1497,Domingo 22
+Domingo,22,Ciclista,37,Domingo 22
+Domingo,22,Motociclista,589,Domingo 22
+Domingo,22,Otros,7,Domingo 22
+Domingo,22,Persona atrapada,19,Domingo 22
+Domingo,22,Persona atropellada,344,Domingo 22
+Domingo,22,Vehículo atrapado,16,Domingo 22
+Domingo,22,Volcadura,79,Domingo 22
+Domingo,23,Choque con lesionados,843,Domingo 23
+Domingo,23,Choque sin lesionados,1215,Domingo 23
+Domingo,23,Ciclista,27,Domingo 23
+Domingo,23,Motociclista,446,Domingo 23
+Domingo,23,Otros,20,Domingo 23
+Domingo,23,Persona atrapada,15,Domingo 23
+Domingo,23,Persona atropellada,245,Domingo 23
+Domingo,23,Vehículo atrapado,24,Domingo 23
+Domingo,23,Volcadura,97,Domingo 23
+Jueves,0,Choque con lesionados,475,Jueves 0
+Jueves,0,Choque sin lesionados,858,Jueves 0
+Jueves,0,Ciclista,11,Jueves 0
+Jueves,0,Motociclista,180,Jueves 0
+Jueves,0,Otros,8,Jueves 0
+Jueves,0,Persona atrapada,5,Jueves 0
+Jueves,0,Persona atropellada,60,Jueves 0
+Jueves,0,Vehículo atrapado,5,Jueves 0
+Jueves,0,Volcadura,25,Jueves 0
+Jueves,1,Choque con lesionados,285,Jueves 1
+Jueves,1,Choque sin lesionados,564,Jueves 1
+Jueves,1,Ciclista,6,Jueves 1
+Jueves,1,Motociclista,93,Jueves 1
+Jueves,1,Otros,10,Jueves 1
+Jueves,1,Persona atrapada,6,Jueves 1
+Jueves,1,Persona atropellada,21,Jueves 1
+Jueves,1,Vehículo atrapado,8,Jueves 1
+Jueves,1,Volcadura,50,Jueves 1
+Jueves,2,Choque con lesionados,215,Jueves 2
+Jueves,2,Choque sin lesionados,321,Jueves 2
+Jueves,2,Ciclista,4,Jueves 2
+Jueves,2,Motociclista,85,Jueves 2
+Jueves,2,Otros,6,Jueves 2
+Jueves,2,Persona atrapada,2,Jueves 2
+Jueves,2,Persona atropellada,31,Jueves 2
+Jueves,2,Vehículo atrapado,4,Jueves 2
+Jueves,2,Volcadura,56,Jueves 2
+Jueves,3,Choque con lesionados,158,Jueves 3
+Jueves,3,Choque sin lesionados,180,Jueves 3
+Jueves,3,Ciclista,1,Jueves 3
+Jueves,3,Motociclista,65,Jueves 3
+Jueves,3,Otros,6,Jueves 3
+Jueves,3,Persona atrapada,2,Jueves 3
+Jueves,3,Persona atropellada,20,Jueves 3
+Jueves,3,Vehículo atrapado,6,Jueves 3
+Jueves,3,Volcadura,18,Jueves 3
+Jueves,4,Choque con lesionados,148,Jueves 4
+Jueves,4,Choque sin lesionados,164,Jueves 4
+Jueves,4,Ciclista,1,Jueves 4
+Jueves,4,Motociclista,46,Jueves 4
+Jueves,4,Otros,6,Jueves 4
+Jueves,4,Persona atrapada,4,Jueves 4
+Jueves,4,Persona atropellada,24,Jueves 4
+Jueves,4,Vehículo atrapado,4,Jueves 4
+Jueves,4,Volcadura,22,Jueves 4
+Jueves,5,Choque con lesionados,236,Jueves 5
+Jueves,5,Choque sin lesionados,198,Jueves 5
+Jueves,5,Ciclista,4,Jueves 5
+Jueves,5,Monopatín,1,Jueves 5
+Jueves,5,Motociclista,102,Jueves 5
+Jueves,5,Otros,3,Jueves 5
+Jueves,5,Persona atropellada,64,Jueves 5
+Jueves,5,Vehículo atrapado,6,Jueves 5
+Jueves,5,Volcadura,20,Jueves 5
+Jueves,6,Choque con lesionados,444,Jueves 6
+Jueves,6,Choque sin lesionados,417,Jueves 6
+Jueves,6,Ciclista,11,Jueves 6
+Jueves,6,Monopatín,1,Jueves 6
+Jueves,6,Motociclista,146,Jueves 6
+Jueves,6,Otros,4,Jueves 6
+Jueves,6,Persona atrapada,5,Jueves 6
+Jueves,6,Persona atropellada,175,Jueves 6
+Jueves,6,Vehículo atrapado,8,Jueves 6
+Jueves,6,Volcadura,32,Jueves 6
+Jueves,7,Choque con lesionados,804,Jueves 7
+Jueves,7,Choque sin lesionados,867,Jueves 7
+Jueves,7,Ciclista,35,Jueves 7
+Jueves,7,Motociclista,258,Jueves 7
+Jueves,7,Otros,17,Jueves 7
+Jueves,7,Persona atrapada,12,Jueves 7
+Jueves,7,Persona atropellada,335,Jueves 7
+Jueves,7,Vehículo atrapado,10,Jueves 7
+Jueves,7,Volcadura,45,Jueves 7
+Jueves,8,Choque con lesionados,1205,Jueves 8
+Jueves,8,Choque sin lesionados,1261,Jueves 8
+Jueves,8,Ciclista,45,Jueves 8
+Jueves,8,Monopatín,2,Jueves 8
+Jueves,8,Motociclista,328,Jueves 8
+Jueves,8,Otros,7,Jueves 8
+Jueves,8,Persona atrapada,6,Jueves 8
+Jueves,8,Persona atropellada,428,Jueves 8
+Jueves,8,Vehículo atrapado,4,Jueves 8
+Jueves,8,Volcadura,42,Jueves 8
+Jueves,9,Choque con lesionados,1015,Jueves 9
+Jueves,9,Choque sin lesionados,1455,Jueves 9
+Jueves,9,Ciclista,45,Jueves 9
+Jueves,9,Motociclista,248,Jueves 9
+Jueves,9,Otros,5,Jueves 9
+Jueves,9,Persona atrapada,13,Jueves 9
+Jueves,9,Persona atropellada,378,Jueves 9
+Jueves,9,Vehículo atrapado,3,Jueves 9
+Jueves,9,Volcadura,27,Jueves 9
+Jueves,10,Choque con lesionados,773,Jueves 10
+Jueves,10,Choque sin lesionados,1430,Jueves 10
+Jueves,10,Ciclista,37,Jueves 10
+Jueves,10,Ferroviario,29,Jueves 10
+Jueves,10,Monopatín,2,Jueves 10
+Jueves,10,Motociclista,179,Jueves 10
+Jueves,10,Otros,9,Jueves 10
+Jueves,10,Persona atrapada,11,Jueves 10
+Jueves,10,Persona atropellada,285,Jueves 10
+Jueves,10,Vehículo atrapado,11,Jueves 10
+Jueves,10,Volcadura,19,Jueves 10
+Jueves,11,Choque con lesionados,753,Jueves 11
+Jueves,11,Choque sin lesionados,1448,Jueves 11
+Jueves,11,Ciclista,33,Jueves 11
+Jueves,11,Ferroviario,3,Jueves 11
+Jueves,11,Monopatín,4,Jueves 11
+Jueves,11,Motociclista,192,Jueves 11
+Jueves,11,Otros,6,Jueves 11
+Jueves,11,Persona atrapada,14,Jueves 11
+Jueves,11,Persona atropellada,385,Jueves 11
+Jueves,11,Vehículo atrapado,9,Jueves 11
+Jueves,11,Volcadura,38,Jueves 11
+Jueves,12,Choque con lesionados,690,Jueves 12
+Jueves,12,Choque sin lesionados,1459,Jueves 12
+Jueves,12,Ciclista,46,Jueves 12
+Jueves,12,Monopatín,1,Jueves 12
+Jueves,12,Motociclista,199,Jueves 12
+Jueves,12,Otros,5,Jueves 12
+Jueves,12,Persona atrapada,19,Jueves 12
+Jueves,12,Persona atropellada,394,Jueves 12
+Jueves,12,Vehículo atrapado,6,Jueves 12
+Jueves,12,Volcadura,58,Jueves 12
+Jueves,13,Choque con lesionados,975,Jueves 13
+Jueves,13,Choque sin lesionados,1648,Jueves 13
+Jueves,13,Ciclista,52,Jueves 13
+Jueves,13,Monopatín,2,Jueves 13
+Jueves,13,Motociclista,219,Jueves 13
+Jueves,13,Otros,3,Jueves 13
+Jueves,13,Persona atrapada,20,Jueves 13
+Jueves,13,Persona atropellada,450,Jueves 13
+Jueves,13,Vehículo atrapado,9,Jueves 13
+Jueves,13,Volcadura,15,Jueves 13
+Jueves,14,Choque con lesionados,1177,Jueves 14
+Jueves,14,Choque sin lesionados,1976,Jueves 14
+Jueves,14,Ciclista,57,Jueves 14
+Jueves,14,Monopatín,2,Jueves 14
+Jueves,14,Motociclista,292,Jueves 14
+Jueves,14,Otros,9,Jueves 14
+Jueves,14,Persona atrapada,18,Jueves 14
+Jueves,14,Persona atropellada,570,Jueves 14
+Jueves,14,Vehículo atrapado,20,Jueves 14
+Jueves,14,Volcadura,35,Jueves 14
+Jueves,15,Choque con lesionados,1241,Jueves 15
+Jueves,15,Choque sin lesionados,2061,Jueves 15
+Jueves,15,Ciclista,74,Jueves 15
+Jueves,15,Monopatín,1,Jueves 15
+Jueves,15,Motociclista,334,Jueves 15
+Jueves,15,Otros,2,Jueves 15
+Jueves,15,Persona atrapada,19,Jueves 15
+Jueves,15,Persona atropellada,508,Jueves 15
+Jueves,15,Vehículo atrapado,17,Jueves 15
+Jueves,15,Volcadura,36,Jueves 15
+Jueves,16,Choque con lesionados,1134,Jueves 16
+Jueves,16,Choque sin lesionados,2183,Jueves 16
+Jueves,16,Ciclista,48,Jueves 16
+Jueves,16,Monopatín,4,Jueves 16
+Jueves,16,Motociclista,302,Jueves 16
+Jueves,16,Otros,8,Jueves 16
+Jueves,16,Persona atrapada,24,Jueves 16
+Jueves,16,Persona atropellada,465,Jueves 16
+Jueves,16,Vehículo atrapado,10,Jueves 16
+Jueves,16,Volcadura,30,Jueves 16
+Jueves,17,Choque con lesionados,1093,Jueves 17
+Jueves,17,Choque sin lesionados,2003,Jueves 17
+Jueves,17,Ciclista,52,Jueves 17
+Jueves,17,Monopatín,1,Jueves 17
+Jueves,17,Motociclista,325,Jueves 17
+Jueves,17,Otros,4,Jueves 17
+Jueves,17,Persona atrapada,21,Jueves 17
+Jueves,17,Persona atropellada,474,Jueves 17
+Jueves,17,Vehículo atrapado,27,Jueves 17
+Jueves,17,Volcadura,47,Jueves 17
+Jueves,18,Choque con lesionados,1199,Jueves 18
+Jueves,18,Choque sin lesionados,2254,Jueves 18
+Jueves,18,Ciclista,66,Jueves 18
+Jueves,18,Motociclista,375,Jueves 18
+Jueves,18,Otros,8,Jueves 18
+Jueves,18,Persona atrapada,33,Jueves 18
+Jueves,18,Persona atropellada,512,Jueves 18
+Jueves,18,Vehículo atrapado,18,Jueves 18
+Jueves,18,Volcadura,45,Jueves 18
+Jueves,19,Choque con lesionados,1240,Jueves 19
+Jueves,19,Choque sin lesionados,2401,Jueves 19
+Jueves,19,Ciclista,59,Jueves 19
+Jueves,19,Monopatín,4,Jueves 19
+Jueves,19,Motociclista,438,Jueves 19
+Jueves,19,Otros,5,Jueves 19
+Jueves,19,Persona atrapada,35,Jueves 19
+Jueves,19,Persona atropellada,652,Jueves 19
+Jueves,19,Vehículo atrapado,23,Jueves 19
+Jueves,19,Volcadura,60,Jueves 19
+Jueves,20,Choque con lesionados,1410,Jueves 20
+Jueves,20,Choque sin lesionados,2410,Jueves 20
+Jueves,20,Ciclista,39,Jueves 20
+Jueves,20,Monopatín,1,Jueves 20
+Jueves,20,Motociclista,481,Jueves 20
+Jueves,20,Otros,10,Jueves 20
+Jueves,20,Persona atrapada,28,Jueves 20
+Jueves,20,Persona atropellada,535,Jueves 20
+Jueves,20,Vehículo atrapado,32,Jueves 20
+Jueves,20,Volcadura,45,Jueves 20
+Jueves,21,Choque con lesionados,1226,Jueves 21
+Jueves,21,Choque sin lesionados,2084,Jueves 21
+Jueves,21,Ciclista,43,Jueves 21
+Jueves,21,Motociclista,399,Jueves 21
+Jueves,21,Otros,12,Jueves 21
+Jueves,21,Persona atrapada,29,Jueves 21
+Jueves,21,Persona atropellada,361,Jueves 21
+Jueves,21,Vehículo atrapado,28,Jueves 21
+Jueves,21,Volcadura,90,Jueves 21
+Jueves,22,Choque con lesionados,1001,Jueves 22
+Jueves,22,Choque sin lesionados,1779,Jueves 22
+Jueves,22,Ciclista,46,Jueves 22
+Jueves,22,Motociclista,388,Jueves 22
+Jueves,22,Otros,5,Jueves 22
+Jueves,22,Persona atrapada,17,Jueves 22
+Jueves,22,Persona atropellada,293,Jueves 22
+Jueves,22,Vehículo atrapado,15,Jueves 22
+Jueves,22,Volcadura,69,Jueves 22
+Jueves,23,Choque con lesionados,830,Jueves 23
+Jueves,23,Choque sin lesionados,1404,Jueves 23
+Jueves,23,Ciclista,38,Jueves 23
+Jueves,23,Motociclista,304,Jueves 23
+Jueves,23,Otros,12,Jueves 23
+Jueves,23,Persona atrapada,9,Jueves 23
+Jueves,23,Persona atropellada,168,Jueves 23
+Jueves,23,Vehículo atrapado,7,Jueves 23
+Jueves,23,Volcadura,48,Jueves 23
+Martes,0,Choque con lesionados,284,Martes 0
+Martes,0,Choque sin lesionados,601,Martes 0
+Martes,0,Ciclista,13,Martes 0
+Martes,0,Motociclista,114,Martes 0
+Martes,0,Otros,11,Martes 0
+Martes,0,Persona atrapada,11,Martes 0
+Martes,0,Persona atropellada,64,Martes 0
+Martes,0,Vehículo atrapado,7,Martes 0
+Martes,0,Volcadura,18,Martes 0
+Martes,1,Choque con lesionados,158,Martes 1
+Martes,1,Choque sin lesionados,380,Martes 1
+Martes,1,Ciclista,4,Martes 1
+Martes,1,Motociclista,90,Martes 1
+Martes,1,Otros,4,Martes 1
+Martes,1,Persona atrapada,3,Martes 1
+Martes,1,Persona atropellada,26,Martes 1
+Martes,1,Vehículo atrapado,1,Martes 1
+Martes,1,Volcadura,21,Martes 1
+Martes,2,Choque con lesionados,132,Martes 2
+Martes,2,Choque sin lesionados,207,Martes 2
+Martes,2,Ciclista,2,Martes 2
+Martes,2,Motociclista,64,Martes 2
+Martes,2,Otros,2,Martes 2
+Martes,2,Persona atrapada,3,Martes 2
+Martes,2,Persona atropellada,24,Martes 2
+Martes,2,Vehículo atrapado,6,Martes 2
+Martes,2,Volcadura,27,Martes 2
+Martes,3,Choque con lesionados,84,Martes 3
+Martes,3,Choque sin lesionados,128,Martes 3
+Martes,3,Ciclista,3,Martes 3
+Martes,3,Motociclista,43,Martes 3
+Martes,3,Otros,5,Martes 3
+Martes,3,Persona atrapada,2,Martes 3
+Martes,3,Persona atropellada,25,Martes 3
+Martes,3,Vehículo atrapado,5,Martes 3
+Martes,3,Volcadura,12,Martes 3
+Martes,4,Choque con lesionados,99,Martes 4
+Martes,4,Choque sin lesionados,112,Martes 4
+Martes,4,Motociclista,31,Martes 4
+Martes,4,Otros,2,Martes 4
+Martes,4,Persona atrapada,2,Martes 4
+Martes,4,Persona atropellada,14,Martes 4
+Martes,4,Vehículo atrapado,5,Martes 4
+Martes,4,Volcadura,17,Martes 4
+Martes,5,Choque con lesionados,201,Martes 5
+Martes,5,Choque sin lesionados,191,Martes 5
+Martes,5,Ciclista,5,Martes 5
+Martes,5,Monopatín,1,Martes 5
+Martes,5,Motociclista,75,Martes 5
+Martes,5,Otros,8,Martes 5
+Martes,5,Persona atrapada,3,Martes 5
+Martes,5,Persona atropellada,50,Martes 5
+Martes,5,Vehículo atrapado,15,Martes 5
+Martes,5,Volcadura,23,Martes 5
+Martes,6,Choque con lesionados,442,Martes 6
+Martes,6,Choque sin lesionados,441,Martes 6
+Martes,6,Ciclista,20,Martes 6
+Martes,6,Motociclista,149,Martes 6
+Martes,6,Otros,3,Martes 6
+Martes,6,Persona atrapada,5,Martes 6
+Martes,6,Persona atropellada,178,Martes 6
+Martes,6,Vehículo atrapado,8,Martes 6
+Martes,6,Volcadura,51,Martes 6
+Martes,7,Choque con lesionados,873,Martes 7
+Martes,7,Choque sin lesionados,1004,Martes 7
+Martes,7,Ciclista,38,Martes 7
+Martes,7,Monopatín,1,Martes 7
+Martes,7,Motociclista,248,Martes 7
+Martes,7,Otros,2,Martes 7
+Martes,7,Persona atrapada,8,Martes 7
+Martes,7,Persona atropellada,322,Martes 7
+Martes,7,Vehículo atrapado,12,Martes 7
+Martes,7,Volcadura,72,Martes 7
+Martes,8,Choque con lesionados,1111,Martes 8
+Martes,8,Choque sin lesionados,1457,Martes 8
+Martes,8,Ciclista,58,Martes 8
+Martes,8,Monopatín,3,Martes 8
+Martes,8,Motociclista,291,Martes 8
+Martes,8,Otros,5,Martes 8
+Martes,8,Persona atrapada,12,Martes 8
+Martes,8,Persona atropellada,397,Martes 8
+Martes,8,Vehículo atrapado,10,Martes 8
+Martes,8,Volcadura,70,Martes 8
+Martes,9,Choque con lesionados,969,Martes 9
+Martes,9,Choque sin lesionados,1558,Martes 9
+Martes,9,Ciclista,61,Martes 9
+Martes,9,Monopatín,2,Martes 9
+Martes,9,Motociclista,263,Martes 9
+Martes,9,Otros,4,Martes 9
+Martes,9,Persona atrapada,9,Martes 9
+Martes,9,Persona atropellada,370,Martes 9
+Martes,9,Vehículo atrapado,1,Martes 9
+Martes,9,Volcadura,39,Martes 9
+Martes,10,Choque con lesionados,852,Martes 10
+Martes,10,Choque sin lesionados,1617,Martes 10
+Martes,10,Ciclista,42,Martes 10
+Martes,10,Motociclista,196,Martes 10
+Martes,10,Otros,4,Martes 10
+Martes,10,Persona atrapada,10,Martes 10
+Martes,10,Persona atropellada,306,Martes 10
+Martes,10,Vehículo atrapado,8,Martes 10
+Martes,10,Volcadura,22,Martes 10
+Martes,11,Choque con lesionados,797,Martes 11
+Martes,11,Choque sin lesionados,1605,Martes 11
+Martes,11,Ciclista,37,Martes 11
+Martes,11,Monopatín,3,Martes 11
+Martes,11,Motociclista,206,Martes 11
+Martes,11,Otros,5,Martes 11
+Martes,11,Persona atrapada,17,Martes 11
+Martes,11,Persona atropellada,335,Martes 11
+Martes,11,Vehículo atrapado,10,Martes 11
+Martes,11,Volcadura,29,Martes 11
+Martes,12,Choque con lesionados,885,Martes 12
+Martes,12,Choque sin lesionados,1614,Martes 12
+Martes,12,Ciclista,37,Martes 12
+Martes,12,Monopatín,2,Martes 12
+Martes,12,Motociclista,177,Martes 12
+Martes,12,Otros,6,Martes 12
+Martes,12,Persona atrapada,8,Martes 12
+Martes,12,Persona atropellada,368,Martes 12
+Martes,12,Vehículo atrapado,18,Martes 12
+Martes,12,Volcadura,14,Martes 12
+Martes,13,Choque con lesionados,1017,Martes 13
+Martes,13,Choque sin lesionados,1718,Martes 13
+Martes,13,Ciclista,49,Martes 13
+Martes,13,Monopatín,1,Martes 13
+Martes,13,Motociclista,230,Martes 13
+Martes,13,Otros,9,Martes 13
+Martes,13,Persona atrapada,15,Martes 13
+Martes,13,Persona atropellada,465,Martes 13
+Martes,13,Vehículo atrapado,15,Martes 13
+Martes,13,Volcadura,34,Martes 13
+Martes,14,Choque con lesionados,1251,Martes 14
+Martes,14,Choque sin lesionados,2120,Martes 14
+Martes,14,Ciclista,51,Martes 14
+Martes,14,Monopatín,2,Martes 14
+Martes,14,Motociclista,308,Martes 14
+Martes,14,Otros,5,Martes 14
+Martes,14,Persona atrapada,24,Martes 14
+Martes,14,Persona atropellada,612,Martes 14
+Martes,14,Vehículo atrapado,12,Martes 14
+Martes,14,Volcadura,29,Martes 14
+Martes,15,Choque con lesionados,1174,Martes 15
+Martes,15,Choque sin lesionados,2079,Martes 15
+Martes,15,Ciclista,78,Martes 15
+Martes,15,Monopatín,1,Martes 15
+Martes,15,Motociclista,334,Martes 15
+Martes,15,Otros,3,Martes 15
+Martes,15,Persona atrapada,19,Martes 15
+Martes,15,Persona atropellada,566,Martes 15
+Martes,15,Vehículo atrapado,15,Martes 15
+Martes,15,Volcadura,51,Martes 15
+Martes,16,Choque con lesionados,1053,Martes 16
+Martes,16,Choque sin lesionados,2130,Martes 16
+Martes,16,Ciclista,70,Martes 16
+Martes,16,Monopatín,3,Martes 16
+Martes,16,Motociclista,326,Martes 16
+Martes,16,Otros,7,Martes 16
+Martes,16,Persona atrapada,33,Martes 16
+Martes,16,Persona atropellada,509,Martes 16
+Martes,16,Vehículo atrapado,21,Martes 16
+Martes,16,Volcadura,55,Martes 16
+Martes,17,Choque con lesionados,1113,Martes 17
+Martes,17,Choque sin lesionados,2222,Martes 17
+Martes,17,Ciclista,44,Martes 17
+Martes,17,Monopatín,4,Martes 17
+Martes,17,Motociclista,347,Martes 17
+Martes,17,Otros,5,Martes 17
+Martes,17,Persona atrapada,17,Martes 17
+Martes,17,Persona atropellada,427,Martes 17
+Martes,17,Vehículo atrapado,25,Martes 17
+Martes,17,Volcadura,63,Martes 17
+Martes,18,Choque con lesionados,1290,Martes 18
+Martes,18,Choque sin lesionados,2300,Martes 18
+Martes,18,Ciclista,60,Martes 18
+Martes,18,Monopatín,2,Martes 18
+Martes,18,Motociclista,345,Martes 18
+Martes,18,Otros,4,Martes 18
+Martes,18,Persona atrapada,26,Martes 18
+Martes,18,Persona atropellada,516,Martes 18
+Martes,18,Vehículo atrapado,26,Martes 18
+Martes,18,Volcadura,34,Martes 18
+Martes,19,Choque con lesionados,1245,Martes 19
+Martes,19,Choque sin lesionados,2372,Martes 19
+Martes,19,Ciclista,66,Martes 19
+Martes,19,Motociclista,404,Martes 19
+Martes,19,Otros,9,Martes 19
+Martes,19,Persona atrapada,30,Martes 19
+Martes,19,Persona atropellada,475,Martes 19
+Martes,19,Vehículo atrapado,38,Martes 19
+Martes,19,Volcadura,42,Martes 19
+Martes,20,Choque con lesionados,1085,Martes 20
+Martes,20,Choque sin lesionados,2339,Martes 20
+Martes,20,Ciclista,55,Martes 20
+Martes,20,Ferroviario,7,Martes 20
+Martes,20,Monopatín,1,Martes 20
+Martes,20,Motociclista,391,Martes 20
+Martes,20,Otros,6,Martes 20
+Martes,20,Persona atrapada,23,Martes 20
+Martes,20,Persona atropellada,507,Martes 20
+Martes,20,Vehículo atrapado,15,Martes 20
+Martes,20,Volcadura,54,Martes 20
+Martes,21,Choque con lesionados,1004,Martes 21
+Martes,21,Choque sin lesionados,2074,Martes 21
+Martes,21,Ciclista,38,Martes 21
+Martes,21,Monopatín,1,Martes 21
+Martes,21,Motociclista,412,Martes 21
+Martes,21,Otros,5,Martes 21
+Martes,21,Persona atrapada,23,Martes 21
+Martes,21,Persona atropellada,358,Martes 21
+Martes,21,Vehículo atrapado,27,Martes 21
+Martes,21,Volcadura,55,Martes 21
+Martes,22,Choque con lesionados,842,Martes 22
+Martes,22,Choque sin lesionados,1653,Martes 22
+Martes,22,Ciclista,37,Martes 22
+Martes,22,Motociclista,331,Martes 22
+Martes,22,Otros,16,Martes 22
+Martes,22,Persona atrapada,22,Martes 22
+Martes,22,Persona atropellada,223,Martes 22
+Martes,22,Vehículo atrapado,18,Martes 22
+Martes,22,Volcadura,100,Martes 22
+Martes,23,Choque con lesionados,539,Martes 23
+Martes,23,Choque sin lesionados,1116,Martes 23
+Martes,23,Ciclista,18,Martes 23
+Martes,23,Motociclista,225,Martes 23
+Martes,23,Otros,8,Martes 23
+Martes,23,Persona atrapada,11,Martes 23
+Martes,23,Persona atropellada,143,Martes 23
+Martes,23,Vehículo atrapado,8,Martes 23
+Martes,23,Volcadura,46,Martes 23
+Miercoles,0,Choque con lesionados,354,Miercoles 0
+Miercoles,0,Choque sin lesionados,741,Miercoles 0
+Miercoles,0,Ciclista,19,Miercoles 0
+Miercoles,0,Monopatín,1,Miercoles 0
+Miercoles,0,Motociclista,170,Miercoles 0
+Miercoles,0,Otros,4,Miercoles 0
+Miercoles,0,Persona atrapada,7,Miercoles 0
+Miercoles,0,Persona atropellada,45,Miercoles 0
+Miercoles,0,Vehículo atrapado,6,Miercoles 0
+Miercoles,0,Volcadura,32,Miercoles 0
+Miercoles,1,Choque con lesionados,238,Miercoles 1
+Miercoles,1,Choque sin lesionados,484,Miercoles 1
+Miercoles,1,Ciclista,4,Miercoles 1
+Miercoles,1,Motociclista,88,Miercoles 1
+Miercoles,1,Otros,5,Miercoles 1
+Miercoles,1,Persona atrapada,6,Miercoles 1
+Miercoles,1,Persona atropellada,36,Miercoles 1
+Miercoles,1,Vehículo atrapado,2,Miercoles 1
+Miercoles,1,Volcadura,18,Miercoles 1
+Miercoles,2,Choque con lesionados,149,Miercoles 2
+Miercoles,2,Choque sin lesionados,210,Miercoles 2
+Miercoles,2,Ciclista,1,Miercoles 2
+Miercoles,2,Monopatín,1,Miercoles 2
+Miercoles,2,Motociclista,39,Miercoles 2
+Miercoles,2,Otros,4,Miercoles 2
+Miercoles,2,Persona atrapada,2,Miercoles 2
+Miercoles,2,Persona atropellada,14,Miercoles 2
+Miercoles,2,Vehículo atrapado,8,Miercoles 2
+Miercoles,2,Volcadura,34,Miercoles 2
+Miercoles,3,Choque con lesionados,114,Miercoles 3
+Miercoles,3,Choque sin lesionados,170,Miercoles 3
+Miercoles,3,Ciclista,1,Miercoles 3
+Miercoles,3,Motociclista,42,Miercoles 3
+Miercoles,3,Otros,3,Miercoles 3
+Miercoles,3,Persona atrapada,4,Miercoles 3
+Miercoles,3,Persona atropellada,32,Miercoles 3
+Miercoles,3,Vehículo atrapado,3,Miercoles 3
+Miercoles,3,Volcadura,23,Miercoles 3
+Miercoles,4,Choque con lesionados,108,Miercoles 4
+Miercoles,4,Choque sin lesionados,130,Miercoles 4
+Miercoles,4,Ciclista,1,Miercoles 4
+Miercoles,4,Motociclista,38,Miercoles 4
+Miercoles,4,Otros,4,Miercoles 4
+Miercoles,4,Persona atrapada,3,Miercoles 4
+Miercoles,4,Persona atropellada,16,Miercoles 4
+Miercoles,4,Vehículo atrapado,3,Miercoles 4
+Miercoles,4,Volcadura,23,Miercoles 4
+Miercoles,5,Choque con lesionados,178,Miercoles 5
+Miercoles,5,Choque sin lesionados,220,Miercoles 5
+Miercoles,5,Ciclista,5,Miercoles 5
+Miercoles,5,Motociclista,61,Miercoles 5
+Miercoles,5,Otros,1,Miercoles 5
+Miercoles,5,Persona atrapada,2,Miercoles 5
+Miercoles,5,Persona atropellada,37,Miercoles 5
+Miercoles,5,Vehículo atrapado,7,Miercoles 5
+Miercoles,5,Volcadura,25,Miercoles 5
+Miercoles,6,Choque con lesionados,460,Miercoles 6
+Miercoles,6,Choque sin lesionados,436,Miercoles 6
+Miercoles,6,Ciclista,17,Miercoles 6
+Miercoles,6,Motociclista,160,Miercoles 6
+Miercoles,6,Otros,2,Miercoles 6
+Miercoles,6,Persona atrapada,3,Miercoles 6
+Miercoles,6,Persona atropellada,127,Miercoles 6
+Miercoles,6,Vehículo atrapado,10,Miercoles 6
+Miercoles,6,Volcadura,31,Miercoles 6
+Miercoles,7,Choque con lesionados,891,Miercoles 7
+Miercoles,7,Choque sin lesionados,946,Miercoles 7
+Miercoles,7,Ciclista,33,Miercoles 7
+Miercoles,7,Monopatín,1,Miercoles 7
+Miercoles,7,Motociclista,279,Miercoles 7
+Miercoles,7,Otros,2,Miercoles 7
+Miercoles,7,Persona atrapada,9,Miercoles 7
+Miercoles,7,Persona atropellada,355,Miercoles 7
+Miercoles,7,Vehículo atrapado,7,Miercoles 7
+Miercoles,7,Volcadura,43,Miercoles 7
+Miercoles,8,Choque con lesionados,1168,Miercoles 8
+Miercoles,8,Choque sin lesionados,1291,Miercoles 8
+Miercoles,8,Ciclista,68,Miercoles 8
+Miercoles,8,Monopatín,1,Miercoles 8
+Miercoles,8,Motociclista,292,Miercoles 8
+Miercoles,8,Otros,2,Miercoles 8
+Miercoles,8,Persona atrapada,12,Miercoles 8
+Miercoles,8,Persona atropellada,438,Miercoles 8
+Miercoles,8,Vehículo atrapado,7,Miercoles 8
+Miercoles,8,Volcadura,44,Miercoles 8
+Miercoles,9,Choque con lesionados,1032,Miercoles 9
+Miercoles,9,Choque sin lesionados,1543,Miercoles 9
+Miercoles,9,Ciclista,51,Miercoles 9
+Miercoles,9,Monopatín,1,Miercoles 9
+Miercoles,9,Motociclista,267,Miercoles 9
+Miercoles,9,Otros,4,Miercoles 9
+Miercoles,9,Persona atrapada,10,Miercoles 9
+Miercoles,9,Persona atropellada,362,Miercoles 9
+Miercoles,9,Vehículo atrapado,7,Miercoles 9
+Miercoles,9,Volcadura,24,Miercoles 9
+Miercoles,10,Choque con lesionados,800,Miercoles 10
+Miercoles,10,Choque sin lesionados,1558,Miercoles 10
+Miercoles,10,Ciclista,40,Miercoles 10
+Miercoles,10,Ferroviario,1,Miercoles 10
+Miercoles,10,Motociclista,236,Miercoles 10
+Miercoles,10,Otros,3,Miercoles 10
+Miercoles,10,Persona atrapada,12,Miercoles 10
+Miercoles,10,Persona atropellada,336,Miercoles 10
+Miercoles,10,Vehículo atrapado,13,Miercoles 10
+Miercoles,10,Volcadura,39,Miercoles 10
+Miercoles,11,Choque con lesionados,776,Miercoles 11
+Miercoles,11,Choque sin lesionados,1565,Miercoles 11
+Miercoles,11,Ciclista,33,Miercoles 11
+Miercoles,11,Monopatín,1,Miercoles 11
+Miercoles,11,Motociclista,164,Miercoles 11
+Miercoles,11,Otros,9,Miercoles 11
+Miercoles,11,Persona atrapada,19,Miercoles 11
+Miercoles,11,Persona atropellada,303,Miercoles 11
+Miercoles,11,Vehículo atrapado,10,Miercoles 11
+Miercoles,11,Volcadura,43,Miercoles 11
+Miercoles,12,Choque con lesionados,846,Miercoles 12
+Miercoles,12,Choque sin lesionados,1547,Miercoles 12
+Miercoles,12,Ciclista,47,Miercoles 12
+Miercoles,12,Monopatín,1,Miercoles 12
+Miercoles,12,Motociclista,220,Miercoles 12
+Miercoles,12,Otros,4,Miercoles 12
+Miercoles,12,Persona atrapada,13,Miercoles 12
+Miercoles,12,Persona atropellada,371,Miercoles 12
+Miercoles,12,Vehículo atrapado,7,Miercoles 12
+Miercoles,12,Volcadura,68,Miercoles 12
+Miercoles,13,Choque con lesionados,927,Miercoles 13
+Miercoles,13,Choque sin lesionados,1608,Miercoles 13
+Miercoles,13,Ciclista,63,Miercoles 13
+Miercoles,13,Monopatín,2,Miercoles 13
+Miercoles,13,Motociclista,218,Miercoles 13
+Miercoles,13,Otros,3,Miercoles 13
+Miercoles,13,Persona atrapada,24,Miercoles 13
+Miercoles,13,Persona atropellada,487,Miercoles 13
+Miercoles,13,Vehículo atrapado,8,Miercoles 13
+Miercoles,13,Volcadura,40,Miercoles 13
+Miercoles,14,Choque con lesionados,1162,Miercoles 14
+Miercoles,14,Choque sin lesionados,2022,Miercoles 14
+Miercoles,14,Ciclista,86,Miercoles 14
+Miercoles,14,Monopatín,2,Miercoles 14
+Miercoles,14,Motociclista,296,Miercoles 14
+Miercoles,14,Otros,4,Miercoles 14
+Miercoles,14,Persona atrapada,19,Miercoles 14
+Miercoles,14,Persona atropellada,616,Miercoles 14
+Miercoles,14,Vehículo atrapado,6,Miercoles 14
+Miercoles,14,Volcadura,59,Miercoles 14
+Miercoles,15,Choque con lesionados,1195,Miercoles 15
+Miercoles,15,Choque sin lesionados,2240,Miercoles 15
+Miercoles,15,Ciclista,57,Miercoles 15
+Miercoles,15,Monopatín,5,Miercoles 15
+Miercoles,15,Motociclista,309,Miercoles 15
+Miercoles,15,Otros,9,Miercoles 15
+Miercoles,15,Persona atrapada,20,Miercoles 15
+Miercoles,15,Persona atropellada,481,Miercoles 15
+Miercoles,15,Vehículo atrapado,15,Miercoles 15
+Miercoles,15,Volcadura,36,Miercoles 15
+Miercoles,16,Choque con lesionados,1144,Miercoles 16
+Miercoles,16,Choque sin lesionados,2230,Miercoles 16
+Miercoles,16,Ciclista,56,Miercoles 16
+Miercoles,16,Motociclista,342,Miercoles 16
+Miercoles,16,Otros,8,Miercoles 16
+Miercoles,16,Persona atrapada,28,Miercoles 16
+Miercoles,16,Persona atropellada,436,Miercoles 16
+Miercoles,16,Vehículo atrapado,13,Miercoles 16
+Miercoles,16,Volcadura,79,Miercoles 16
+Miercoles,17,Choque con lesionados,1135,Miercoles 17
+Miercoles,17,Choque sin lesionados,2151,Miercoles 17
+Miercoles,17,Ciclista,55,Miercoles 17
+Miercoles,17,Monopatín,1,Miercoles 17
+Miercoles,17,Motociclista,333,Miercoles 17
+Miercoles,17,Otros,7,Miercoles 17
+Miercoles,17,Persona atrapada,17,Miercoles 17
+Miercoles,17,Persona atropellada,541,Miercoles 17
+Miercoles,17,Vehículo atrapado,8,Miercoles 17
+Miercoles,17,Volcadura,29,Miercoles 17
+Miercoles,18,Choque con lesionados,1292,Miercoles 18
+Miercoles,18,Choque sin lesionados,2399,Miercoles 18
+Miercoles,18,Ciclista,78,Miercoles 18
+Miercoles,18,Monopatín,2,Miercoles 18
+Miercoles,18,Motociclista,378,Miercoles 18
+Miercoles,18,Otros,5,Miercoles 18
+Miercoles,18,Persona atrapada,26,Miercoles 18
+Miercoles,18,Persona atropellada,558,Miercoles 18
+Miercoles,18,Vehículo atrapado,11,Miercoles 18
+Miercoles,18,Volcadura,43,Miercoles 18
+Miercoles,19,Choque con lesionados,1211,Miercoles 19
+Miercoles,19,Choque sin lesionados,2357,Miercoles 19
+Miercoles,19,Ciclista,61,Miercoles 19
+Miercoles,19,Monopatín,3,Miercoles 19
+Miercoles,19,Motociclista,394,Miercoles 19
+Miercoles,19,Otros,6,Miercoles 19
+Miercoles,19,Persona atrapada,29,Miercoles 19
+Miercoles,19,Persona atropellada,523,Miercoles 19
+Miercoles,19,Vehículo atrapado,30,Miercoles 19
+Miercoles,19,Volcadura,34,Miercoles 19
+Miercoles,20,Choque con lesionados,1111,Miercoles 20
+Miercoles,20,Choque sin lesionados,2205,Miercoles 20
+Miercoles,20,Ciclista,57,Miercoles 20
+Miercoles,20,Monopatín,2,Miercoles 20
+Miercoles,20,Motociclista,364,Miercoles 20
+Miercoles,20,Otros,8,Miercoles 20
+Miercoles,20,Persona atrapada,22,Miercoles 20
+Miercoles,20,Persona atropellada,473,Miercoles 20
+Miercoles,20,Vehículo atrapado,34,Miercoles 20
+Miercoles,20,Volcadura,73,Miercoles 20
+Miercoles,21,Choque con lesionados,1096,Miercoles 21
+Miercoles,21,Choque sin lesionados,2108,Miercoles 21
+Miercoles,21,Ciclista,44,Miercoles 21
+Miercoles,21,Motociclista,379,Miercoles 21
+Miercoles,21,Otros,6,Miercoles 21
+Miercoles,21,Persona atrapada,14,Miercoles 21
+Miercoles,21,Persona atropellada,390,Miercoles 21
+Miercoles,21,Vehículo atrapado,24,Miercoles 21
+Miercoles,21,Volcadura,83,Miercoles 21
+Miercoles,22,Choque con lesionados,890,Miercoles 22
+Miercoles,22,Choque sin lesionados,1654,Miercoles 22
+Miercoles,22,Ciclista,34,Miercoles 22
+Miercoles,22,Monopatín,1,Miercoles 22
+Miercoles,22,Motociclista,328,Miercoles 22
+Miercoles,22,Otros,7,Miercoles 22
+Miercoles,22,Persona atrapada,22,Miercoles 22
+Miercoles,22,Persona atropellada,294,Miercoles 22
+Miercoles,22,Vehículo atrapado,12,Miercoles 22
+Miercoles,22,Volcadura,46,Miercoles 22
+Miercoles,23,Choque con lesionados,575,Miercoles 23
+Miercoles,23,Choque sin lesionados,1208,Miercoles 23
+Miercoles,23,Ciclista,18,Miercoles 23
+Miercoles,23,Motociclista,225,Miercoles 23
+Miercoles,23,Otros,8,Miercoles 23
+Miercoles,23,Persona atrapada,7,Miercoles 23
+Miercoles,23,Persona atropellada,117,Miercoles 23
+Miercoles,23,Vehículo atrapado,17,Miercoles 23
+Miercoles,23,Volcadura,57,Miercoles 23

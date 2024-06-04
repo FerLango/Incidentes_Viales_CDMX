@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Incidentes viales - CDMX</title>
+    <link rel="icon" href="imgs/car.ico">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <button id="colorblind-btn">Haz click aquí si eres daltónico</button>
+    <button id="original-btn" style="display: none">
+      Regresar a los colores originales
+    </button>
+
+    <div class="first-choice">
+      <div class="first-choice-wrapper">
+        <h1>
+          <span class="large-text">Incidentes viales</span>
+          <span class="background-yellow bg-color3">
+            <span class="smaller-sub-text">Ciudad de México 2022 - 2024</span>
+          </span>
+        </h1>
+        <p>
+          Es conocido que la Ciudad de México es una de las más congestionadas y
+          densas en el mundo, al 2022 se registraron alrededor de 6.4 millones
+          de autos, motos, camiones y tractores en circulación. La movilidad es
+          un tema fundamental que nos afecta a todos, ya sea como peatones,
+          ciclistas, motociclistas o conductores.
+        </p>
+
+        <p>
+          A lo largo de este proyecto se muestra la incidencia y las causas de los
+          accidentes de tránsito en México. Utilizando los registros de
+          incidentes viales por el C5, buscamos responder preguntas sobre el tipo de incidente más común, patrones entre el día de la semana y la hora, recurrencia por alcaldías y el tiempo de afectación a la vialidad.
+        </p>
+
+        <p>
+			Esperamos que con el apoyo de estas visualizaciones,
+          se puedan tomar decisiones informadas para mejorar la
+          seguridad vial en la Ciudad de México.
+        </p>
+
+        <h2>¿Cuál tipo de incidente crees que es más común?</h2>
+        <ul class="buttons">
+          <li class="Choque sin lesionados">Choque sin lesionados</li>
+          <li class="Persona atroppellada">Persona atropellada</li>
+          <li class="Choque con lesionados">Choque con lesionados</li>
+          <li class="Motociclista caído">Motociclista caído</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="second-choice">
+      <div class="sub-sections driving-wrapper">
+        <div class="container">
+          <i class="fas fa-arrow-circle-up"></i>
+          <div class="yellow-box background-color1">
+            <p>
+              De acuerdo con los datos reportados por C5, un incidente de
+              <span
+                ><span class="driving-type">SELECTION</span> es el
+                <span class="place">SELECTION</span> más común.</span
+              >
+            </p>
+          </div>
+          <div class="car-image-wrapper">
+            <img
+              src="imgs/choque.gif"
+              alt="Choque"
+              width="100%"
+              height="250"
+              style="border-radius: 20px"
+            />
+          </div>
+          <div class="driving-percentage">
+            Alrededor de <span class="percent">SELECTION</span> de cada
+            <span> 100</span> incidentes son provocados por
+            <span class="driving-type">SELECTION</span>.
+          </div>
+          <!-- <div class="disclaimer">Lorem ipsum dolor sit amet</div> -->
+        </div>
+      </div>
+
+      <div class="graphs-wrapper bg-color2">
+        <h2>Entre 2022 y 2024 se registraron 504,227 incidentes viales<span class="letter-color">¿Qué proporción ocupa el resto de las categorías?</span></h2>
+        <img src="imgs/car.png" alt="Car" class="car-image" />
+        <div class="barsWrapper">
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">45.81% - Choque sin lesionados</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">29.28% - Choque con lesionados</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">10.46% - Persona atropellada</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">9.97% - Motociclista</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">1.79% - Volcadura</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">1.31% - Ciclista</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">0.54% - Persona atrapada</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">0.46% - Vehículo atrapado</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">0.32% - Otros</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">0.04% - Monopatín</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="bar-graph background-color1">
+            <span class="percentWrapper">
+              <span class="barPercent">0.02% - Ferroviario</span>
+            </span>
+            <span class="border-bottom"></span>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+
+      <!-- HEATMAP HORA -->
+      <div class="section-viz bg-color1">
+        <h2>
+          Incidentes por hora y tipo<span class="letter-color"
+            >¿Qué tendencias y patrones puedes identificar?</span
+          >
+        </h2>
+
+        <div class="block-left">
+          <p>
+            El mapa de calor utiliza una escala de colores donde las áreas más
+            oscuras representan una mayor concentración de incidentes. Para una
+            interpretación más clara, se ha incluido una opción para cambiar la
+            escala de colores a una paleta más accesible para personas
+            daltónicas.
+          </p>
+          <p>
+            ¿Quieres saber cuántos incidentes hay cada hora por tipo?, ¿a qué
+            hora hay más cantidad de accidentes?, ¿a qué hora corres mas peligro
+            como peatón?, ¿en las horas pico hay más accidentes? Pasa el mouse
+            por encima del mapa calor, ¡Es interactivo!
+          </p>
+          <p>
+            Incluyendo todos los tipos de incidentes viales, el mapa de calor
+            reveló algunos patrones generales, pero también mostró una gran
+            variación en la cantidad de incidentes entre diferentes tipos.
+            Algunos tipos de incidentes tenían cifras significativamente más
+            altas que otros, lo que dificulta la comparación directa.
+          </p>
+        </div>
+
+        <div id="heatmap_hora" class="viz-right border-color"></div>
+      </div>
+
+      <!-- HEATMAP SEMANA -->
+      <div class="section-viz bg-color2">
+        <h2>
+          Incidentes por hora y tipo<span class="letter-color"
+            >¿Qué pasa si nos concentramos en los 4 incidentes más
+            comunes?</span
+          >
+        </h2>
+
+        <div class="block-right">
+          <p>
+            Al concentrarnos sólo en el 95% de los accidentes, se revelan
+            patrones y tendencias más claras.
+          </p>
+          <p>
+            ¿Te diste cuenta que todos los días, a las 14 horas, se registra el
+            mayor número de personas atropelladas?
+          </p>
+		  <p>
+			El 48.73% de los accidentes que incluyen choques con lesionados ocurren de viernes a domingo. De manera similar, el 44.29% de los accidentes que incluyen choques sin lesionados también ocurren durante este periodo. Todos los días, a las 14 horas, se registra el mayor número de personas atropelladas. En cuanto a los motociclistas, aunque los picos no son tan definidos como en el caso de los choques, se observan aún concentraciones durante las mañanas y tardes, con una distribución más dispersa a lo largo de la semana.
+		  </p>
+        </div>
+
+        <div id="heatmap_semana" class="viz-left border-color"></div>
+      </div>
+
+      <!-- TABLAS HORAS Y SEMANAS -->
+      <div class="section-viz bg-color2">
+        <h2>
+          <span class="letter-color"
+            >¿Cuáles son los días y horas con mayor y menor incidencia?</span
+          >
+        </h2>
+        <div class="table-wrapper">
+          <div class="table-container">
+            <table>
+              <tr>
+                <th>Tipo de Incidente</th>
+                <th>Día Entre Semana</th>
+                <th>Día en Fin de Semana</th>
+                <th>Horas con Más Incidentes</th>
+              </tr>
+              <tr>
+                <td>Choques con lesionados</td>
+                <td>Jueves</td>
+                <td>Sábado</td>
+                <td>14:00 - 19:00</td>
+              </tr>
+              <tr>
+                <td>Choques sin lesionados</td>
+                <td>Miércoles</td>
+                <td>Viernes</td>
+                <td>14:00 - 19:00</td>
+              </tr>
+              <tr>
+                <td>Motociclistas</td>
+                <td>Lunes</td>
+                <td>Domingo</td>
+                <td>16:00 - 22:00</td>
+              </tr>
+              <tr>
+                <td>Personas atropelladas</td>
+                <td>Jueves</td>
+                <td>Sábado</td>
+                <td>12:00 - 19:00</td>
+              </tr>
+            </table>
+          </div>
+
+          <div class="table-container">
+            <table>
+              <tr>
+                <th>Tipo de Incidente</th>
+                <th>Día Entre Semana</th>
+                <th>Día en Fin de Semana</th>
+                <th>Horas con Menos Incidentes</th>
+              </tr>
+              <tr>
+                <td>Choques con lesionados</td>
+                <td>Martes</td>
+                <td>Viernes</td>
+                <td>03:00 - 04:00</td>
+              </tr>
+              <tr>
+                <td>Choques sin lesionados</td>
+                <td>Lunes</td>
+                <td>Domingo</td>
+                <td>03:00 - 04:00</td>
+              </tr>
+              <tr>
+                <td>Motociclistas</td>
+                <td>Martes</td>
+                <td>viernes</td>
+                <td>02:00 - 04:00</td>
+              </tr>
+              <tr>
+                <td>Personas atropelladas</td>
+                <td>Lunes</td>
+                <td>Domingo</td>
+                <td>02:00 - 05:00</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- BARRAS ALCALDIA -->
+      <div class="section-viz bg-color1">
+        <h2>Incidentes por mes y alcaldía<span class="letter-color">¿Existe algún patrón  en el tiempo?</span></h2>
+
+        <div class="block-left">
+          <p>
+            Se observa un incremento de incidentes conforme nos acercamos a diciembre de cada año, destacándose meses como octubre de 2022 y diciembre de 2023 con picos significativos. Alcaldías como Iztapalapa y Gustavo A. Madero muestran consistentemente altos números de incidentes, lo que sugiere la necesidad de estrategias focalizadas para mitigar estos sucesos. La gráfica también revela fluctuaciones mensuales, posiblemente relacionadas con factores estacionales, festividades o eventos específicos.
+          </p>
+		  <p>
+			En contraste, alcaldías como Milpa Alta, La Magdalena Contreras y Cuajimalpa de Morelos presentan cifras significativamente menores, lo cual podría reflejar diferencias en densidad poblacional o en la efectividad de las políticas de seguridad. Entre los datos más destacados, Iztapalapa registró su mayor número de incidentes en octubre de 2022 con 4,038 reportes, mientras que Gustavo A. Madero tuvo un pico de 2,617 incidentes en diciembre de 2022.
+		  </p>
+		  <p>
+			Para las autoridades, es esencial implementar políticas de seguridad específicas para las áreas con mayores incidentes. Además, es crucial entender los factores que impulsan los picos de incidentes para desarrollar estrategias preventivas efectivas.
+		  </p>
+        </div>
+
+        <div id="barras_alcaldia" class="viz-right  border-color"></div>
+      </div>
+
+      <!-- PIE ALCALDIA -->
+      <div class="section-viz bg-color2">
+        <h2>Incidentes por alcaldía<span class="letter-color">¿Hay alguna alcaldía que se encuentre más emproblemada?</span></h2>
+
+        <div class="block-right">
+          <p>
+            Iztapalapa destaca como la alcaldía con la mayor proporción de incidentes, acumulando un total de 82,538 reportes, lo que equivale al 18.37% del total. Este alto número subraya la necesidad de intervención urgente y estrategias de seguridad focalizadas. Gustavo A. Madero y Cuauhtémoc también presentan números significativos de incidentes, con 56,416 (11.95%) y 52,499 (10.41%) reportes respectivamente, sugiriendo que estas áreas también requieren atención prioritaria.
+          </p>
+		  <p>
+			En contraste, alcaldías como Milpa Alta, La Magdalena Contreras y Cuajimalpa de Morelos presentan los menores números de incidentes, con 3,597 (0.71%), 8,008 (1.78%) y 9,686 (2.15%) reportes respectivamente. Aunque sus cifras son bajas, es importante no descuidar estas áreas y asegurar que se mantengan seguras. La notable diferencia entre las alcaldías con mayores y menores incidentes destaca la necesidad de políticas diferenciadas según la problemática específica de cada zona.
+		  </p>
+		  <p>
+			Con esto reforzamos la hipótesis de concentrar a las autoridades focalizando recursos adicionales en las áreas con mayor concentración de incidentes para mejorar la seguridad y reducir los incidentes.
+		  </p>
+        </div>
+
+        <div id="pie_alcaldia" class="viz-left  border-color"></div>
+      </div>
+
+      <!-- VIOLIN TIEMPO -->
+      <div class="section-viz bg-color1">
+        <h2>Minutos de afectación por día de la semana<span class="letter-color">¿Cuál es el tiempo de afectación a la vialidad?</span></h2>
+
+        <div class="block-left">
+          <p>
+            Cada gráfica representa un día de la semana mostrando el tiempo desde el inicio del reporte de accidente vial hasta su cierre. Se ha limitado el timepo a 6 horas que corresponden a 19,350 inicidentes representando el 3.8% para poder visualizar mejor el comportamiento.
+          </p>
+		  <p>
+			Los datos recopilados muestran una distribución amplia en los tiempos de duración de los reportes, desde breves interacciones hasta procesos prolongados. El promedio general de duración de un reporte se sitúa alrededor de las 3 horas, reflejando una eficiencia en la respuesta a emergencias.
+		  </p>
+		  <p>
+			Mientras que la mayoría de los reportes se resuelven dentro de un plazo razonable, algunos casos excepcionales se extienden hasta casi 24 horas, lo que subraya la necesidad de mejorar la agilidad en la atención a incidentes críticos.
+
+		  </p>
+		  <p>
+			La frecuencia de reportes de accidentes muestra una ligera variación entre días laborables y fines de semana, con una pequeña alza en la cantidad de incidentes registrados durante el sábado y domingo.
+		  </p>
+		  <p>
+			
+		  </p>
+        </div>
+
+        <div id="violin_tiempo" class="viz-right  border-color"></div>
+      </div>
+
+      <div class="distracted-driving-woes"></div>
+
+      <!-- QUE SE PUEDE HACER -->
+      <div class="intersection-accidents bg-color4">
+        <div class="container">
+          <h2 class="letter-color">
+            <div>
+              ¿Qué se puede hacer para <span>DISMINUIR INCIDENTES?</span>
+            </div>
+          </h2>
+          <p class="intersection-cta"><span>Descúbrelo dando clic</span></p>
+          <div class="arrows">
+            <span class="arrow-one">∨</span>
+            <span class="arrow-two">∨</span>
+          </div>
+          <div class="congrats"><span>¡Bien hecho!</span></div>
+          <ul class="ul-column">
+            <li data-accident="trafico" class="trafico">
+              <i class="fas fa-thumbs-up"></i>
+              <span>Medidas de control de tráfico</span>
+            </li>
+            <li class="no">
+              <i class="fas fa-times"></i><span>Crear más caminos</span>
+            </li>
+            <li data-accident="seguridad" class="seguridad">
+              <i class="fas fa-thumbs-up"></i>
+              <span>Campañas de seguridad vial</span>
+            </li>
+            <li class="no">
+              <i class="fas fa-times"></i> <span>No manejar si llueve</span>
+            </li>
+            <li data-accident="infraestructura" class="infraestructura">
+              <i class="fas fa-thumbs-up"></i><span>Infraestructura vial</span>
+            </li>
+          </ul>
+          <ul class="ul-column">
+            <li class="no">
+              <i class="fas fa-times"></i> <span>Quitar vehículos</span>
+            </li>
+            <li data-accident="educacion" class="educacion">
+              <i class="fas fa-thumbs-up"></i>
+              <span>Educación y concientización</span>
+            </li>
+            <li data-accident="datos" class="datos">
+              <i class="fas fa-thumbs-up"></i> <span>Análisis de datos</span>
+            </li>
+            <li class="no">
+              <i class="fas fa-times"></i> <span>Quitar semáforos</span>
+            </li>
+            <li data-accident="alcoholimetros" class="alcoholimetros">
+              <i class="fas fa-thumbs-up"></i> <span>Alcoholímetros</span>
+            </li>
+          </ul>
+
+          <div class="intersection-types">
+            <div class="column trafico">
+              <i class="fas fa-times"></i>
+              <div class="column-img-wrapper">
+                <img class="icon" src="imgs/icon-1.jpeg" alt="" />
+              </div>
+              <div class="sub-paragraph">
+                <h4>Medidas de control de tráfico</h4>
+                <p>
+                  Implementar <span>medidas de control de tráfico</span> basado
+                  en los picos de incidentes durante las horas en las que más
+                  ocurren.
+                </p>
+              </div>
+            </div>
+
+            <div class="column seguridad">
+              <i class="fas fa-times"></i>
+              <div class="column-img-wrapper">
+                <img class="icon" src="imgs/icon-2.jpg" alt="" />
+              </div>
+              <div class="sub-paragraph">
+                <h4>Campañanas de seguridad víal</h4>
+                <p>
+                  Implementar <span>campañas de seguridad víal</span> dirigidas
+                  a los días y horarios identificados con mayor riesgo.
+                </p>
+              </div>
+            </div>
+
+            <div class="column infraestructura">
+              <i class="fas fa-times"></i>
+              <div class="column-img-wrapper">
+                <img class="icon" src="imgs/icon-3.jpg" alt="" />
+              </div>
+              <div class="sub-paragraph">
+                <h4>Infraestructura vial</h4>
+                <p>
+                  Mejorar la <span>infraestructura vial</span> para mejorar la
+                  seguridad y fluidez del tráfico.
+                </p>
+              </div>
+            </div>
+
+            <div class="column datos">
+              <i class="fas fa-times"></i>
+              <div class="column-img-wrapper">
+                <img class="icon" src="imgs/icon-4.jpg" alt="" />
+              </div>
+              <div class="sub-paragraph">
+                <h4>Análisis de datos</h4>
+                <p>
+                  Realizar <span>análisis de datos</span> sobre la ubicación de
+                  los incidentes para poder tomar medidas específicas.
+                </p>
+              </div>
+            </div>
+
+            <div class="column educacion">
+              <i class="fas fa-times"></i>
+              <div class="column-img-wrapper">
+                <img class="icon" src="imgs/icon-5.jpg" alt="" />
+              </div>
+              <div class="sub-paragraph">
+                <h4>Educación y concientización</h4>
+                <p>
+                  Brindar programas de <span>eduación y concientización</span> a
+                  conductores y peatones sobre comportamientos seguros y el
+                  cumplimiento de las nomras viales.
+                </p>
+              </div>
+            </div>
+
+            <div class="column alcoholimetros">
+              <i class="fas fa-times"></i>
+              <div class="column-img-wrapper">
+                <img class="icon" src="imgs/icon-6.jpeg" alt="" />
+              </div>
+              <div class="sub-paragraph">
+                <h4>Alcoholímetros</h4>
+                <p>
+                  Implementar más puntos de control de
+                  <span>alcoholímetros</span> especialmente durante los fines de
+                  semanas en horas tardías.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="footer-cta"> -->
+      <div class="call-to-action bg-color3">
+        <div class="container">
+          <p>
+             <span>Tú también puedes ayudar</span>
+          </p>
+          <a href="tel:911" class="cta"
+            >Realiza tu reporte marcando a los servicios de emergencia en el 911</a
+          >
+        </div>
+      </div>
+
+      <div class="reference bg-color4">
+        <div class="container">
+          <h4 class="letter-color">Referencias:</h4>
+          <ul style="text-indent: 50px">
+			<li>
+				<a href="https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5" style="color: white;" target="_blank">
+					https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5
+				</a>
+			</li>
+			<li>
+				<a href="https://www.eleconomista.com.mx/politica/Cada-vez-hay-mas-autos-circulando-en-la-CDMX-un-vehiculo-de-motor-por-cada-1.4-capitalinos-20240216-0037.html" style="color: white;" target="_blank">
+					https://www.eleconomista.com.mx/politica/Cada-vez-hay-mas-autos-circulando-en-la-CDMX-un-vehiculo-de-motor-por-cada-1.4-capitalinos-20240216-0037.html
+				</a>
+			</li>
+          </ul>
+          <h4 class="letter-color">Elaborado por:</h4>
+          <ul
+            class="buttons"
+            style="display: flex; align-items: center; justify-content: center"
+          >
+            <li class="background-color1">Fernando Lango</li>
+            <li class="background-color1">Horus Ordoñez</li>
+            <li class="background-color1">Viridiana Avelar</li>
+            <li class="background-color1">José Fernandez</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+	<div id="tooltip" class="tooltip"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/ScrollMagic.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/plugins/animation.gsap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/plugins/debug.addIndicators.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <script src="script.js"></script>
+
+    <script src="heatmap_hora.js"></script>
+    <script src="heatmap_semana.js"></script>
+    <script src="barras_alcaldia.js"></script>
+    <script src="pie_alcaldia.js"></script>
+    <script src="violin_tiempo.js"></script>
+
+    <script src="daltonism.js"></script>
+  </body>
+</html>
